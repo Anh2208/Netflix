@@ -1,32 +1,40 @@
 import { DataTypes } from "sequelize";
 import { sequelize } from "../config/database.js";
 
-const ListSchema = sequelize.define("listSchema", {
+const User = sequelize.define("user", {
     id: {
         type: DataTypes.UUID,
         defaultValue: DataTypes.UUIDV4,
         allowNull: false,
         primaryKey: true,
     },
-    title: {
-        type: DataTypes.STRING,
-        allowNull: false,
-        unique: true,
-    },
-    type: {
+    email: {
         type: DataTypes.STRING,
         allowNull: false,
     },
-    genre: {
+    username: {
         type: DataTypes.STRING,
         allowNull: false,
     },
-    context: {
-        type: DataTypes.JSON,
+    password: {
+        type: DataTypes.STRING,
+        allowNull: false,
+    },
+    profilePic: {
+        type: DataTypes.STRING,
         allowNull: true,
-    }
+    },
+    avatar: {
+        type: DataTypes.STRING,
+        allowNull: true,
+    },
+    isAdmin: {
+        type: DataTypes.BOOLEAN,
+        allowNull: false,
+        defaultValue: false,
+    },
 }, {
-    timestamps: true,
+    timestamps: false
 })
 
-export default ListSchema
+export default User;
