@@ -7,6 +7,14 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.btn-danger {
+  background-color: #e50914 !important;
+}
+
+.btn {
+  border-radius: 0.1875rem !important;
+}
+
 div {
   display: block;
   unicode-bidi: isolate;
