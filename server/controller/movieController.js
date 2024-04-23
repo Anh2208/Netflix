@@ -1,25 +1,53 @@
-import connection from "../utils/connect.js";
+import { where } from "sequelize";
+import Movie from "../models/movie.js";
 
-export const movieCreate = async (req, res) => {
+export const createMoive = async (req, res) => {
+    const body = req.body;
     try {
-        console.log("cac")
-        const sql =
-            'INSERT INTO `users`(`name`, `age`) VALUES ("Josh", 19), ("Page", 45)';
-
-        connection.query(sql, (err, result, fields) => {
-            if (err instanceof Error) {
-                console.log(err);
-                return;
+        const movie = await Movie.findOne({
+            where: {
+                title: req.body.title,
             }
-
-            console.log(result);
-            console.log(fields);
-            res.status(200).json({ message: "test successfully" })
         });
+        if (movie) {
+            res.status(409).json({ message: "Tiêu đề movie đã tồn tại!!!" })
+        } else {
+            const newMovie = await Movie.create(body);
+            res.status(200).json({ status: "success", data: newMovie });
+        }
     } catch (error) {
-        console.log("ERROR", error);
-        res
-            .status(500)
-            .json({ success: false, message: "Lỗi tạo lớp học phần" });
+        res.status(500).json({ status: "error", message: error.message })
+    }
+}
+
+export const updateMovie = async (req, res) => {
+    const body = req.body;
+    try {
+        await Movie.update(
+            body,
+            {
+                where: {
+                    id: req.params.id,
+                },
+            }
+        );
+        const updateMovie = await Movie.findByPk(req.params.id);
+        res.status(200).json({ status: "success", data: updateMovie });
+    } catch (error) {
+        res.status(500).json({ status: "fail", message: error.message });
+    }
+}
+
+export const deleteMovie = async (req, res) => {
+    try {
+        const movie = await Movie.findByPk(req.params.id)
+        if (movie) {
+            await movie.destroy();
+            res.status(200).json({ status: "success", message: "Xóa movie thành công!!!" });
+            return;
+        }
+        res.status(404).json({ status: "fail", message: "Không tìm thấy movie" });
+    } catch (error) {
+        res.status(500).json({ status: "fail", message: error.message });
     }
 }
