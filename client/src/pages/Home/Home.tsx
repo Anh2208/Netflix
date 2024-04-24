@@ -1,5 +1,4 @@
 import React from "react";
-import "./Home.css";
 import Header from "../../components/Home/Home.tsx";
 
 const Home = () => {

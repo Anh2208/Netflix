@@ -82,6 +82,7 @@ const Header = () => {
                         color: "inherit",
                         border: "0 solid transparent",
                         appearance: "none",
+                        font: "inherit",
                       }}
                       className="bg-transparent fw-light"
                     >
@@ -172,7 +173,7 @@ const Header = () => {
           {/* main center */}
           <div
             style={{
-              maxWidth: "calc(88% - 4rem)",  
+              maxWidth: "calc(88% - 4rem)",
             }}
             className="d-flex flex-column m-auto text-light"
           >
@@ -325,6 +326,91 @@ const Header = () => {
               </div>
             </div>
             <div className="default-ltr-cache-vgp0nn e9eyrqp3"></div>
+          </div>
+        </div>
+        <div
+          style={{
+            minHeight: "auto",
+            padding: "4.5rem 0",
+            color: "rgb(255,255,255)",
+          }}
+          className="position-relative d-flex justify-content-center text-center h-100"
+        >
+          <div
+            style={{
+              maxWidth: "calc(100% - 4rem)",
+            }}
+            className="d-flex flex-row m-auto align-items-center text-center"
+          >
+            <div
+              style={{
+                paddingLeft: "0.375rem",
+                flexBasis: "50%",
+                zIndex: 1,
+              }}
+              className="text-left p-0 w-100"
+            >
+              <h2 className="fs-3 fw-bold m-0 text-left">
+                Thưởng thức trên TV của bạn
+              </h2>
+              <p
+                style={{
+                  margin: "1rem 0 0",
+                }}
+                className="fs-2 fw-normal"
+              >
+                Xem trên TV thông minh, Playstation, Xbox, Chromecast, Apple TV,
+                đầu phát Blu-ray và nhiều thiết bị khác.
+              </p>
+              <div
+                style={{
+                  margin: "1.5rem 0 0",
+                }}
+              >
+                <div></div>
+              </div>
+            </div>
+            <div
+              style={{
+                paddingLeft: "0.375rem",
+                flexBasis: "50%",
+                zIndex: 1,
+              }}
+              className="p-0"
+            >
+              <div className="position-relative">
+                <img
+                  alt="img-tv"
+                  src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/tv.png"
+                  className="w-100 border-0"
+                />
+                <div
+                  style={{
+                    zIndex: -1,
+                    maxWidth: "73%",
+                    maxHeight: "54%",
+                    top: "46%",
+                    left: "50%",
+                    transform: "translate(-50%, -50%)",
+                  }}
+                  className="overflow-hidden w-100 h-100 position-absolute"
+                >
+                  <video
+                    className="d-inline-block align-baseline"
+                    autoPlay={true}
+                    playsInline={true}
+                    muted={true}
+                    loop={true}
+                  >
+                    <source
+                      src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/video-tv-0819.m4v"
+                      type="video/mp4"
+                    />
+                  </video>
+                  <div aria-hidden="true"></div>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
