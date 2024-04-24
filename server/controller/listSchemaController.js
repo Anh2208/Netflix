@@ -1,71 +1,59 @@
 import { Sequelize } from "sequelize";
 import ListSchema from "../models/listSchema.js";
+import asyncMiddleware from "../middleware/asyncMiddleware.js";
+import CustomerError from "../utils/CustomerError.js";
+import logger from "../utils/CustomLogger.js";
 
-export const listSchemaCreate = async (req, res) => {
-    const body = req.body;
-    try {
+export const createListSchema = asyncMiddleware(async (req, res, next) => {
+    const newListSchema = await ListSchema.create(req.body);
+    res.status(201).json({ status: "success", data: { list: newListSchema } })
+    logger.info({ message: "Admin create List Schema", url: req.originalUrl, method: req.method, body: req.body, userId: req.user.id })
+})
 
-        const newListSchema = await ListSchema.create(body);
-        res.status(200).json({ success: true, message: "create success", data: newListSchema })
-    } catch (error) {
-        console.log(error)
-        res
-            .status(500)
-            .json({ success: false, message: error.message });
-    }
-}
-
-export const getAllListSchema = async (req, res) => {
-    try {
-        const typeQuery = req.query.type;
-        const genreQuery = req.query.genre;
-        let list = [];
-        if (typeQuery) {
-            if (genreQuery) {
-                list = await ListSchema.findAll({
-                    where: {
-                        type: typeQuery,
-                        genre: genreQuery
-                    },
-                    raw: true,
-                    order: Sequelize.literal('RAND()'),
-                    // limit: 2
-                });
-            } else {
-                list = await ListSchema.findAll({
-                    where: {
-                        type: typeQuery
-                    },
-                    raw: true,
-                    order: Sequelize.literal('RAND()'),
-                    // limit: 2
-                });
-            }
-        }
-        else {
+export const getAllListSchema = asyncMiddleware(async (req, res, next) => {
+    const typeQuery = req.query.type;
+    const genreQuery = req.query.genre;
+    let list = [];
+    if (typeQuery) {
+        if (genreQuery) {
             list = await ListSchema.findAll({
+                where: {
+                    type: typeQuery,
+                    genre: genreQuery
+                },
+                raw: true,
+                order: Sequelize.literal('RAND()'),
+                // limit: 2
+            });
+        } else {
+            list = await ListSchema.findAll({
+                where: {
+                    type: typeQuery
+                },
                 raw: true,
                 order: Sequelize.literal('RAND()'),
                 // limit: 2
             });
         }
-        res.status(200).json({ status: "sucess", list: list });
-    } catch (error) {
-        res.status(500).json({ status: "fail", message: error.message });
+    } else {
+        list = await ListSchema.findAll({
+            raw: true,
+            order: Sequelize.literal('RAND()'),
+            // limit: 2
+        });
     }
-}
+    res.status(200).json({ status: "sucess", data: { list: list } });
+    logger.info({ message: "Get All List Schema", url: req.originalUrl, method: req.method, body: req.body, userId: req.user.id })
+})
 
-export const listSchemaDelete = async (req, res) => {
-    try {
-        const listChema = await ListSchema.findByPk(req.params.title);
-        console.log(listChema)
-        if (!listChema) {
-            res.status(404).json({ status: "fail", message: "ListSchema with that title is not found!" });
-            return;
-        }
-        await listChema.destroy();
-        res.status(200).json({ status: "sucess", message: null });
-    } catch (error) {
-        res.status(500).json({ status: "error", message: error.message })
+export const deleteListSchema = asyncMiddleware(async (req, res, next) => {
+    const listSchema = await ListSchema.findByPk(req.params.id);
+    if (!listSchema) {
+        const error = new CustomerError("Không thể tìm thấy danh sách", 404);
+        return next(error);
+    } else {
+        await listSchema.destroy();
+        res.status(200).json({ status: "success", data: null });
+        logger.info({ message: "Admin Delete List Schema", url: req.originalUrl, method: req.method, body: req.body, userId: req.user.id })
     }
-}
+})
