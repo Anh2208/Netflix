@@ -2,73 +2,57 @@
 import bcrypt, { hash } from "bcrypt"
 import User from "../models/user.js";
 import jwt from "jsonwebtoken"
-import { raw } from "mysql2";
+import asyncMiddleware from "../middleware/asyncMiddleware.js";
+import CustomerError from "../utils/CustomerError.js";
+import logger from "../utils/CustomLogger.js";
 
-export const register = async (req, res) => {
-    try {
-        const { username, email, password } = req.body;
-        const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-        if (!emailRegex.test(email)) {
-            res.status(400).json({ success: false, message: "Invalid email address" });
-        }
-        const hashPassword = await bcrypt.hash(password, 10);
-        const user = await User.create({
-            username,
-            email,
-            password: hashPassword
-        });
-
-        res.status(200).json({ success: true, message: "user successfully created", user })
-    } catch (error) {
-        res.status(500).json({
-            message: "Error",
-            error: error.message,
-        })
+export const register = asyncMiddleware(async (req, res, next) => {
+    const { username, email, password } = req.body;
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    if (!emailRegex.test(email)) {
+        const error = new CustomerError("Email không hợp lệ", 400);
+        return next(error);
     }
-}
+    const hashPassword = await bcrypt.hash(password, 10);
+    const user = await User.create({
+        username,
+        email,
+        password: hashPassword
+    });
 
-export const login = async (req, res) => {
+    res.status(200).json({ success: true, data: { user: user } })
+    logger.info({ message: "Register", url: req.url, method: req.method, body: req.body })
+})
+
+export const login = asyncMiddleware(async (req, res, next) => {
     const { email, password } = req.body;
-    try {
-        const user = await User.findOne({
-            where: {
-                email: email,
-            },
-            raw: true
-        });
-        if (!user) {
-            res.status(404).json({
-                message: "incorrect email or password",
-            });
-            return;
-        } else {
-            const result = await bcrypt.compare(password, user.password);
-            if (result) {
-                const accessToken = generateAccessToken(user);
-                // res.cookie("accessToken", accessToken, {
-                //     httpOnly: true,
-                //     expires: accessToken.expiresIn,
-                // }).status(200).json({
-                //     message: "Login successful",
-                //     user,
-                //     accessToken,
-                // });
-                res.status(200).json({
-                    message: "Login successful",
-                    user,
-                    accessToken,
-                });
-            } else {
-                res.status(400).json({ message: "Password incorrect" });
-            }
-        }
-    } catch (error) {
-        res.status(500).json({
-            message: "Error",
-            error: error.message,
-        })
+    const user = await User.findOne({
+        where: {
+            email,
+        },
+        raw: true
+    })
+    if (!user) {
+        const error = new CustomerError("Thông tin email hoặc mật khẩu không đúng", 401);
+        return next(error);
     }
-}
+    const result = await bcrypt.compare(password, user.password);
+    if (result) {
+        const accessToken = generateAccessToken(user);
+        res.status(200).json({
+            message: "Login successful",
+            data: {
+                user,
+                accessToken,
+            }
+        });
+        logger.info({ message: "Login", url: req.url, method: req.method, body: req.body })
+    } else {
+        const error = new CustomerError("Mật khẩu không đúng", 401);
+        return next(error);
+    }
+
+})
 
 const generateAccessToken = (user) => {
     return jwt.sign({ id: user.id, email: user.email, username: user.username, isAdmin: user.isAdmin }, process.env.ACCESS_TOKEN_SECRET, {

@@ -16,6 +16,7 @@ const User_Mylist = sequelize.define("user_mylist", {
             model: User,
             key: "id"
         },
+        onDelete: true,
     },
     movieId: {
         type: DataTypes.UUID,
