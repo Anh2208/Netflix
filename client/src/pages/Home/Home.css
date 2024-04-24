@@ -1,0 +1,13 @@
+div {
+  display: block;
+  unicode-bidi: isolate;
+}
+html {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  font-family: sans-serif;
+}
+
+.netflix-sans-font-loaded {
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+}
