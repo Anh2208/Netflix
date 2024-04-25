@@ -43,7 +43,7 @@
 }
 
 .input-email {
-  line-height: 1.5;
+  line-height: 1;
   font-size: 1rem;
   width: 100%;
   padding: 1.5rem 1rem 0.5rem;
@@ -76,4 +76,16 @@
 
 select option {
   color: initial;
+}
+
+.div-maxWidth {
+  max-width: calc(80% - 3rem);
+}
+
+li h3 {
+  background-color: rgb(45, 45, 45);
+}
+
+li h3:hover {
+  background-color: rgb(55, 55, 55);
 }
