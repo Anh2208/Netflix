@@ -1,0 +1,61 @@
+.border-dashed {
+    border: 2px dashed rgb(75, 85, 99);
+}
+
+.red-btn {
+    border: 1px solid rgb(242, 0, 0);
+    background-color: rgb(242, 0, 0);
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    border-radius: 0.25rem;
+    width: 100%;
+    transition-duration: .3s;
+    transition-timing-function: cubic-bezier(.4, 0, 1, 1);
+}
+
+.red-btn:hover {
+    background-color: rgb(8 10 26 / 1);
+}
+
+.black-btn {
+    border: 1px solid rgb(242, 0, 0);
+    background-color: rgb(8, 10, 26);
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    border-radius: 0.25rem;
+    transition-duration: .3s;
+    width: 100%;
+    transition-timing-function: cubic-bezier(.4, 0, 1, 1);
+}
+
+.black-btn:hover {
+    background-color: rgb(242, 0, 0);
+}
+
+@media (min-width: 768px) {
+    .black-btn {
+        width: auto;
+    }
+
+    .red-btn {
+        width: auto;
+    }
+}
+
+/* mylist */
+.table-auto {
+    table-layout: auto;
+}
+
+.table-td {
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    white-space: nowrap;
+    line-height: 1.5rem;
+}
+
+.test-tool {
+    display: none;
+}
