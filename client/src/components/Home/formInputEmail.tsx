@@ -34,20 +34,8 @@ const FormInputEmail = () => {
             className="d-flex flex-wrap align-top text-left w-auto position-relative d-inline-flex"
           >
             <label
-              style={{
-                color: "rgba(255, 255, 255, 0.7)",
-                zIndex: 1,
-                whiteSpace: "nowrap",
-                textOverflow: "ellipsis",
-                transitionProperty: "top, fontSize, lineHeight",
-                transitionDuration: "250ms",
-                transitionTimingFunction: "cubic-bezier(0.5, 0, 0.1, 1)",
-                left: "1rem",
-                right: "1rem",
-                top: "0.5rem",
-                fontSize: "0.75rem",
-              }}
-              className="position-absolute overflow-hidden text-left"
+              htmlFor="email"
+              className="input-label position-absolute overflow-hidden text-left"
             >
               Email hoặc số điện thoại di động
             </label>
@@ -59,6 +47,7 @@ const FormInputEmail = () => {
               className="fs-6 fw-normal p-0 w-100 align-items-center d-inline-flex gap-2 position-relative text-left"
             >
               <input
+                id="email"
                 className="input-email"
                 autoComplete="email"
                 minLength={5}
