@@ -87,6 +87,10 @@
     }
 }
 
+.bg-white {
+    background-color: rgb(224, 224, 224);
+}
+
 .bg-dryGray {
     background-color: rgb(224, 213, 213);
 }
@@ -98,6 +102,10 @@
 .bg-main {
     background-color: rgb(8 10 26 / 1);
 }
+
+/* .bg-black {
+    background-color: rgb(0, 0, 1);
+} */
 
 .bg-subMain {
     background-color: rgb(242, 0, 0);

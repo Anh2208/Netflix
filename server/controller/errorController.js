@@ -38,7 +38,7 @@ const prodErrors = (req, res, error) => {
     }
 }
 
-const castErrorHandler = (err) => {
+const castErrorHandler = (err, req) => {
     let msg;
     if (err.path !== undefined && err.value !== undefined) {
         msg = `Invalid value for ${err.path}: ${err.value}!`;

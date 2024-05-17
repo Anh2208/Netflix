@@ -86,7 +86,7 @@ const Header = () => {
                       }}
                       className="bg-transparent fw-light"
                     >
-                      <option selected>Tiếng Việt</option>
+                      <option>Tiếng Việt</option>
                       <option>English</option>
                     </select>
                     <div
@@ -129,7 +129,7 @@ const Header = () => {
                     }}
                     role="button"
                     className="btn btn-danger"
-                    href="/vn/login"
+                    href="/login"
                   >
                     Đăng nhập
                   </a>

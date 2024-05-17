@@ -1,6 +1,9 @@
 import express from "express";
-import cookieParser from "cookie-parser";
 import dotenv from "dotenv";
+import cors from "cors";
+import bodyParser from 'body-parser';
+import cookieParser from "cookie-parser";
+
 import { connect } from "./config/database.js";
 import authRouter from "./routes/auth.js"
 import userRouter from "./routes/user.js"
@@ -14,8 +17,13 @@ const app = express();
 dotenv.config();
 const port = process.env.PORT || 8000;
 
-app.use(cookieParser())
 app.use(express.json());
+app.use(cookieParser())
+app.use(cors({
+    origin: ['http://localhost:3000'],
+    credentials: true,
+}));
+app.use(bodyParser.json());
 
 app.use("/api/auth", authRouter);
 app.use("/api/user", userRouter);
