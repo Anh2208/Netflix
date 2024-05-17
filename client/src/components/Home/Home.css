@@ -42,8 +42,27 @@
   left: 0;
 }
 
-.input-email {
+.input-label {
+  position: absolute;
+  z-index: 1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  transition-property: top, font-size, line-height;
+  transition-duration: 250ms;
+  pointer-events: none;
+  top: 1rem;
+  left: 1rem;
+  right: 1rem;
   line-height: 1.5;
+  font-weight: 400;
+  font-size: 1rem;
+  color: rgba(255, 255, 255, 0.7);
+  transition-timing-function: cubic-bezier(0.9, 0, 0.51, 1);
+}
+
+.input-email {
+  line-height: 1;
   font-size: 1rem;
   width: 100%;
   padding: 1.5rem 1rem 0.5rem;
@@ -56,6 +75,12 @@
   color: inherit;
 }
 
+.input-email:focus ~ .input-label {
+  top: 0;
+  font-size: 12px;
+  color: #333;
+}
+
 .opacity-input-email {
   background: rgba(70, 90, 126, 0.4);
   border-color: rgb(43, 184, 113);
@@ -66,7 +91,7 @@
   right: 0;
   bottom: 0;
   z-index: -1;
-  border: 1px solid black;
+  /* border: 1px solid black; */
   user-select: none;
   display: flex;
   border-width: 1px;
@@ -77,3 +102,21 @@
 select option {
   color: initial;
 }
+
+.div-maxWidth {
+  max-width: calc(80% - 3rem);
+}
+
+li h3 {
+  background-color: rgb(45, 45, 45);
+}
+
+li h3:hover {
+  background-color: rgb(55, 55, 55);
+}
+
+li a {
+  color: #ffffffb3;
+}
+
+
