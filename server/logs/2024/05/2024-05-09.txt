@@ -1,0 +1,136 @@
+2024-05-09 12:15:03 AM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-09 12:15:13 AM | info | Can't find /api/auth/logout on the server! | url: /api/auth/logout | method: GET | body: {} | userId:  | 
+
+2024-05-09 09:48:51 AM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-09 09:50:17 AM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-09 09:50:30 AM | info | Get All List Schema | url: /api/listSchema | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-09 09:56:30 AM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-09 09:58:07 AM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-09 09:58:18 AM | info | Can't find /api/auth/logout on the server! | url: /api/auth/logout | method: GET | body: {} | userId:  | 
+
+2024-05-09 10:01:59 AM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-09 10:08:18 AM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-09 10:09:08 AM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-09 10:09:44 AM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-09 10:10:57 AM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-09 10:12:00 AM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-09 09:10:48 PM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-09 09:11:53 PM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-09 10:32:52 PM | info | User Update | url: /anhvh1412@gmail.com | method: PUT | body: {"email":"anhvh1412@gmail.com","username":"jokeay1"} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-09 10:35:52 PM | info | Không có quyền cập nhật người dùng hiện tại | url: /api/user/cacac@mgial.com | method: PUT | body: {"email":"anhvh1412@gmail.com","username":"jokeay"} | userId:  | 
+
+2024-05-09 10:36:13 PM | info | Không có quyền cập nhật người dùng hiện tại | url: /api/user/cacac@mgial.com | method: PUT | body: {"email":"anhvh1412@gmail.com","username":"jokeay"} | userId:  | 
+
+2024-05-09 10:36:13 PM | info | Không có quyền cập nhật người dùng hiện tại | url: /api/user/cacac@mgial.com | method: PUT | body: {"email":"anhvh1412@gmail.com","username":"jokeay"} | userId:  | 
+
+2024-05-09 10:36:23 PM | info | User Update | url: /anhvh1412@gmail.com | method: PUT | body: {"email":"anhvh1412@gmail.com","username":"jokeay"} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-09 10:36:47 PM | info | User Update | url: /anhvh1412@gmail.com | method: PUT | body: {"email":"anhvh1412@gmail.com","username":"jokeay"} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-09 10:37:32 PM | info | User Update | url: /anhvh1412@gmail.com | method: PUT | body: {"email":"anhvh1412@gmail.com","username":"jokeay"} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-09 10:37:44 PM | info | User Update | url: /anhvh1412@gmail.com | method: PUT | body: {"email":"anhvh1412@gmail.com","username":"jokeay"} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-09 10:39:14 PM | info | User Update | url: /anhvh1412@gmail.com | method: PUT | body: {"email":"anhvh1412@gmail.com","username":"jokeay"} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-09 10:39:20 PM | info | User Update | url: /anhvh1412@gmail.com | method: PUT | body: {"email":"anhvh1412@gmail.com","username":"jokeay"} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-09 10:41:56 PM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-09 10:42:47 PM | info | Không có quyền cập nhật người dùng hiện tại | url: /api/user/anhvh1411@gmail.com | method: PUT | body: {"email":"anhvh1412@gmail.com","username":"jokeay"} | userId:  | 
+
+2024-05-09 10:45:03 PM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-09 10:52:21 PM | info | Không có quyền cập nhật người dùng hiện tại | url: /api/user/anhvh1411@gmail.com | method: PUT | body: {"email":"anhvh1412@gmail.com","username":"jokeay"} | userId:  | 
+
+2024-05-09 10:52:29 PM | info | Không có quyền cập nhật người dùng hiện tại | url: /api/user/anhvh1411@gmail.com | method: PUT | body: {"email":"anhvh1412@gmail.com","username":"jokeay"} | userId:  | 
+
+2024-05-09 10:52:29 PM | info | Không có quyền cập nhật người dùng hiện tại | url: /api/user/anhvh1411@gmail.com | method: PUT | body: {"email":"anhvh1412@gmail.com","username":"jokeay"} | userId:  | 
+
+2024-05-09 10:53:15 PM | info | Không có quyền cập nhật người dùng hiện tại | url: /api/user/anhvh1411@gmail.com | method: PUT | body: {"email":"anhvh1412@gmail.com","username":"jokeay"} | userId:  | 
+
+2024-05-09 10:53:41 PM | info | User Update | url: /anhvh1412@gmail.com | method: PUT | body: {"email":"anhvh1412@gmail.com","username":"jokeay"} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-09 10:54:54 PM | info | User Update | url: /anhvh1412@gmail.com | method: PUT | body: {"email":"anhvh1412@gmail.com","username":"jokeay"} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-09 10:54:56 PM | info | User Update | url: /anhvh1412@gmail.com | method: PUT | body: {"email":"anhvh1412@gmail.com","username":"jokeay"} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-09 10:56:05 PM | info | Không có quyền cập nhật người dùng hiện tại | url: /api/user/an@mgial | method: PUT | body: {"email":"anhvh1412@gmail.com","username":"jokeay"} | userId:  | 
+
+2024-05-09 10:56:10 PM | info | Không có quyền cập nhật người dùng hiện tại | url: /api/user/an@mgial | method: PUT | body: {"email":"anhvh1412@gmail.com","username":"jokeay"} | userId:  | 
+
+2024-05-09 10:56:10 PM | info | Không có quyền cập nhật người dùng hiện tại | url: /api/user/an@mgial | method: PUT | body: {"email":"anhvh1412@gmail.com","username":"jokeay"} | userId:  | 
+
+2024-05-09 10:56:35 PM | info | Không có quyền cập nhật người dùng hiện tại | url: /api/user/an@mgial | method: PUT | body: {"email":"anhvh1412@gmail.com","username":"jokeay"} | userId:  | 
+
+2024-05-09 10:56:35 PM | info | Không có quyền cập nhật người dùng hiện tại | url: /api/user/an@mgial | method: PUT | body: {"email":"anhvh1412@gmail.com","username":"jokeay"} | userId:  | 
+
+2024-05-09 11:18:04 PM | info | Không có quyền cập nhật người dùng hiện tại | url: /api/user/an@mgial | method: PUT | body: {"email":"anhvh1412@gmail.com","username":"jokeay1"} | userId:  | 
+
+2024-05-09 11:18:23 PM | info | User Update | url: /anhvh1412@gmail.com | method: PUT | body: {"email":"anhvh1412@gmail.com","username":"jokeay"} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-09 11:19:11 PM | info | User Update | url: /anhvh1412@gmail.com | method: PUT | body: {"email":"anhvh1412@gmail.com","username":"hoang anh"} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-09 11:36:20 PM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-09 11:36:39 PM | error | Unknown column 'role' in 'field list' | url: /api/user | method: GET | body: {} | userId:  | 
+
+2024-05-09 11:36:39 PM | error | Unknown column 'role' in 'field list' | url: /api/user | method: GET | body: {} | userId:  | 
+
+2024-05-09 11:37:10 PM | error | Unknown column 'role' in 'field list' | url: /api/user | method: GET | body: {} | userId:  | 
+
+2024-05-09 11:37:10 PM | error | Unknown column 'role' in 'field list' | url: /api/user | method: GET | body: {} | userId:  | 
+
+2024-05-09 11:37:28 PM | error | Unknown column 'role' in 'field list' | url: /api/user | method: GET | body: {} | userId:  | 
+
+2024-05-09 11:37:28 PM | error | Unknown column 'role' in 'field list' | url: /api/user | method: GET | body: {} | userId:  | 
+
+2024-05-09 11:40:36 PM | error | Association with alias "id" does not exist on user | url: /api/user | method: GET | body: {} | userId:  | 
+
+2024-05-09 11:40:36 PM | error | Association with alias "id" does not exist on user | url: /api/user | method: GET | body: {} | userId:  | 
+
+2024-05-09 11:43:01 PM | info | get all user | url: / | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-09 11:43:01 PM | info | get all user | url: / | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-09 11:45:24 PM | error | Include unexpected. Element has to be either a Model, an Association or an object. | url: /api/user | method: GET | body: {} | userId:  | 
+
+2024-05-09 11:45:24 PM | error | Include unexpected. Element has to be either a Model, an Association or an object. | url: /api/user | method: GET | body: {} | userId:  | 
+
+2024-05-09 11:46:54 PM | error | Unknown column 'role' in 'field list' | url: /api/user | method: GET | body: {} | userId:  | 
+
+2024-05-09 11:46:54 PM | error | Unknown column 'role' in 'field list' | url: /api/user | method: GET | body: {} | userId:  | 
+
+2024-05-09 11:49:01 PM | info | get all user | url: / | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-09 11:49:01 PM | info | get all user | url: / | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-09 11:49:21 PM | info | get all user | url: / | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-09 11:49:21 PM | info | get all user | url: / | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-09 11:50:00 PM | info | get all user | url: / | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-09 11:50:00 PM | info | get all user | url: / | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-09 11:55:23 PM | info | get all user | url: / | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-09 11:55:24 PM | info | get all user | url: / | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-09 11:58:11 PM | info | get all user | url: / | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+

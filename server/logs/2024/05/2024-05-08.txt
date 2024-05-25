@@ -1,0 +1,116 @@
+2024-05-08 09:22:53 AM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-08 09:25:51 AM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-08 09:26:12 AM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-08 09:26:34 AM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-08 09:27:29 AM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-08 09:33:17 AM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-08 09:34:08 AM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-08 03:02:26 PM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-08 03:09:55 PM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-08 03:10:11 PM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-08 03:33:46 PM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-08 03:34:28 PM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-08 04:09:37 PM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-08 04:39:58 PM | info | Can't find /api/listSchema1 on the server! | url: /api/listSchema1 | method: GET | body: {} | userId:  | 
+
+2024-05-08 04:41:52 PM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-08 04:42:00 PM | info | Get All List Schema | url: /api/listSchema | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-08 08:15:54 PM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-08 08:16:03 PM | info | Get All List Schema | url: /api/listSchema | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-08 08:45:42 PM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-08 09:29:45 PM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-08 09:31:46 PM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-08 09:32:11 PM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-08 09:32:45 PM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-08 09:35:46 PM | info | Get All List Schema | url: /api/listSchema | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-08 09:35:50 PM | info | Get All List Schema | url: /api/listSchema | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-08 09:36:07 PM | info | Get All List Schema | url: /api/listSchema | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-08 09:41:23 PM | info | Can't find /api/auth/refresh on the server! | url: /api/auth/refresh | method: GET | body: {} | userId:  | 
+
+2024-05-08 09:44:08 PM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-08 09:44:21 PM | info | Get All List Schema | url: /api/listSchema | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-08 09:44:37 PM | info | Get All List Schema | url: /api/listSchema | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-08 09:44:53 PM | info | Get All List Schema | url: /api/listSchema | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-08 09:45:03 PM | info | Get All List Schema | url: /api/listSchema | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-08 09:57:30 PM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-08 09:57:48 PM | info | Get All List Schema | url: /api/listSchema | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-08 10:00:41 PM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-08 10:00:55 PM | info | Get All List Schema | url: /api/listSchema | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-08 10:06:43 PM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-08 10:06:56 PM | info | Get All List Schema | url: /api/listSchema | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-08 10:08:36 PM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-08 10:13:48 PM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-08 10:21:32 PM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-08 10:21:48 PM | info | Get All List Schema | url: /api/listSchema | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-08 10:21:55 PM | info | Get All List Schema | url: /api/listSchema | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-08 10:22:00 PM | info | Get All List Schema | url: /api/listSchema | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-08 10:22:13 PM | info | Get All List Schema | url: /api/listSchema | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-08 10:22:34 PM | info | Get All List Schema | url: /api/listSchema | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-08 10:22:41 PM | info | Get All List Schema | url: /api/listSchema | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-08 10:22:46 PM | info | Get All List Schema | url: /api/listSchema | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-08 10:22:54 PM | info | Get All List Schema | url: /api/listSchema | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-08 11:14:03 PM | info | Get All List Schema | url: /api/listSchema | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-08 11:31:30 PM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-08 11:31:40 PM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-08 11:32:06 PM | info | Get All List Schema | url: /api/listSchema | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-08 11:32:11 PM | info | Get All List Schema | url: /api/listSchema | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-08 11:32:15 PM | info | Get All List Schema | url: /api/listSchema | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-08 11:32:17 PM | info | Get All List Schema | url: /api/listSchema | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-05-08 11:32:41 PM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-08 11:37:27 PM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+

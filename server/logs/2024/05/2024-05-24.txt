@@ -1,0 +1,42 @@
+2024-05-24 12:38:08 AM | error | ENOENT: no such file or directory, open 'C:\Users\AD\Desktop\File\Work\Netflix\server\uploads\fc9a0a1a54d669c211b97f1e81c78c7f' | url: /api/movie/upload | method: POST | body: {} | userId:  | 
+
+2024-05-24 12:38:23 AM | error | ENOENT: no such file or directory, open 'C:\Users\AD\Desktop\File\Work\Netflix\server\uploads\a357c63a870d920a453d701d650febc1' | url: /api/movie/upload | method: POST | body: {} | userId:  | 
+
+2024-05-24 08:04:11 AM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-24 08:04:14 AM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-24 08:04:14 AM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-24 09:50:19 AM | error | Invalid file type | url: /api/movie/upload | method: POST | body: {} | userId:  | 
+
+2024-05-24 09:50:35 AM | error | Invalid file type | url: /api/movie/upload | method: POST | body: {} | userId:  | 
+
+2024-05-24 09:51:50 AM | error | Invalid file type | url: /api/movie/upload | method: POST | body: {} | userId:  | 
+
+2024-05-24 10:18:36 AM | error | ENOENT: no such file or directory, open 'C:\Users\AD\Desktop\File\Work\Netflix\server\uploads\blob' | url: /api/movie/upload | method: POST | body: {} | userId:  | 
+
+2024-05-24 10:43:57 AM | error | ENOENT: no such file or directory, open 'C:\Users\AD\Desktop\File\Work\Netflix\server\uploads\file-1716522237744-220369529' | url: /api/movie/upload | method: POST | body: {} | userId:  | 
+
+2024-05-24 11:39:46 AM | info | Can't find /api/movie/upload on the server! | url: /api/movie/upload | method: POST | body: {} | userId:  | 
+
+2024-05-24 02:41:04 PM | error | ENOENT: no such file or directory, open 'C:\Users\AD\Desktop\File\Work\Netflix\server\uploads\5397ffab0fcc6b65971a3e342470a0b1' | url: /api/movie/upload | method: POST | body: {} | userId:  | 
+
+2024-05-24 02:41:10 PM | error | ENOENT: no such file or directory, open 'C:\Users\AD\Desktop\File\Work\Netflix\server\uploads\80af98b059c51552029467fec2520c10' | url: /api/movie/upload | method: POST | body: {} | userId:  | 
+
+2024-05-24 02:41:12 PM | error | ENOENT: no such file or directory, open 'C:\Users\AD\Desktop\File\Work\Netflix\server\uploads\8487ae8e63dfb715adabf8f57c03b02e' | url: /api/movie/upload | method: POST | body: {} | userId:  | 
+
+2024-05-24 02:41:14 PM | error | ENOENT: no such file or directory, open 'C:\Users\AD\Desktop\File\Work\Netflix\server\uploads\4f3005154aef87e9a350bce01f2d3ea1' | url: /api/movie/upload | method: POST | body: {} | userId:  | 
+
+2024-05-24 02:41:28 PM | error | ENOENT: no such file or directory, open 'C:\Users\AD\Desktop\File\Work\Netflix\server\uploads\8d840fba05bd39a86160f3652c863283' | url: /api/movie/upload | method: POST | body: {} | userId:  | 
+
+2024-05-24 02:42:10 PM | error | ENOENT: no such file or directory, open 'C:\Users\AD\Desktop\File\Work\Netflix\server\uploads\dfcbcc398562ca36db7ce59052cdfcfc' | url: /api/movie/upload | method: POST | body: {} | userId:  | 
+
+2024-05-24 02:43:02 PM | error | ENOENT: no such file or directory, open 'C:\Users\AD\Desktop\File\Work\Netflix\server\uploads\7cd763fe423294077a1d005ae36d8711' | url: /api/movie/upload | method: POST | body: {} | userId:  | 
+
+2024-05-24 02:43:47 PM | error | ENOENT: no such file or directory, open 'C:\Users\AD\Desktop\File\Work\Netflix\server\uploads\a82a7ea90cf920628f2eae183eb5ec45' | url: /api/movie/upload | method: POST | body: {} | userId:  | 
+
+2024-05-24 11:47:40 PM | info | get all user | url: / | method: GET | body: {} | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-24 11:47:40 PM | info | get all user | url: / | method: GET | body: {} | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+

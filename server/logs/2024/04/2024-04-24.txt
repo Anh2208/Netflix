@@ -1,0 +1,106 @@
+2024-04-24 08:40:20.090 AM | error | Validation error | url: /api/auth/register | method: POST | body: {"username":"jokeay1","email":"test1@gmail.com","password":"123"} | user: undefined 
+
+2024-04-24 08:40:49.352 AM | error | Validation error | url: /api/auth/register | method: POST | body: {"username":"jokeay1","email":"test1@gmail.com","password":"123"} | user:  
+
+2024-04-24 09:01:42 AM | error | Validation error | url: /api/auth/register | method: POST | body: {"username":"jokeay1","email":"test1@gmail.com","password":"123"} | userId:  
+
+2024-04-24 09:06:46 AM | error | Validation error | url: /api/auth/register | method: POST | body: {"username":"jokeay1","email":"test1@gmail.com","password":"123"} | userId:  | 
+
+2024-04-24 09:07:03 AM | error | Validation error | url: /api/auth/register | method: POST | body: {"username":"jokeay1","email":"test1@gmail.com","password":"123"} | userId:  | 
+
+2024-04-24 09:10:34 AM | error | Expected ',' or '}' after property value in JSON at position 43 | url: /api/auth/login | method: POST | body: {} | userId:  | 
+
+2024-04-24 09:10:49 AM | info | Mật khẩu không đúng | url: /api/auth/login | method: POST | body: {"email":"anhvh2208@gmail.com","password":"1123"} | userId:  | 
+
+2024-04-24 09:10:55 AM | error | Validation error | url: /api/auth/register | method: POST | body: {"username":"jokeay1","email":"test1@gmail.com","password":"123"} | userId:  | 
+
+2024-04-24 09:10:55 AM | info | There is already a record with email = test1@gmail.com. Please use another value! | url: /api/auth/register | method: POST | body: {"username":"jokeay1","email":"test1@gmail.com","password":"123"} | userId:  | 
+
+2024-04-24 09:11:36 AM | error | Validation error | url: /api/auth/register | method: POST | body: {"username":"jokeay1","email":"test1@gmail.com","password":"123"} | userId:  | 
+
+2024-04-24 09:11:36 AM | info | There is already a record with email = test1@gmail.com. Please use another value! | url: /api/auth/register | method: POST | body: {"username":"jokeay1","email":"test1@gmail.com","password":"123"} | userId:  | 
+
+2024-04-24 09:20:29 AM | info | Login successfully | url: undefined | method: undefined | body: undefined | userId:  | 
+
+2024-04-24 09:20:49 AM | info | Login successfully | url: undefined | method: undefined | body: undefined | userId:  | 
+
+2024-04-24 09:22:12 AM | info | info | url: undefined | method: undefined | body: undefined | userId:  | 
+
+2024-04-24 09:22:41 AM | info | Login successfully | url: undefined | method: undefined | body: undefined | userId:  | 
+
+2024-04-24 09:24:39 AM | info | Login successfully | url: /login | method: POST | body: {"email":"anhvh2208@gmail.com","password":"123"} | userId:  | 
+
+2024-04-24 09:28:08 AM | info | Mật khẩu không đúng | url: /api/auth/login | method: POST | body: {"email":"anhvh2208@gmail.com","password":"1231"} | userId:  | 
+
+2024-04-24 09:30:14 AM | info | Login successfully | url: /register | method: POST | body: {"username":"jokeay2","email":"test2@gmail.com","password":"123"} | userId:  | 
+
+2024-04-24 09:30:50 AM | info | Register | url: /register | method: POST | body: {"username":"jokeay2","email":"test3@gmail.com","password":"123"} | userId:  | 
+
+2024-04-24 09:32:01 AM | info | Login | url: /login | method: POST | body: {"email":"anhvh2208@gmail.com","password":"123"} | userId:  | 
+
+2024-04-24 09:37:20 AM | info | Login | url: /login | method: POST | body: {"email":"anhvh2208@gmail.com","password":"123"} | userId:  | 
+
+2024-04-24 09:38:24 AM | info | Register | url: /register | method: POST | body: {"username":"jokeay2","email":"test3@gmail.com","password":"123"} | userId:  | 
+
+2024-04-24 09:38:38 AM | info | Delete User | url: /6254730d-2837-4335-94e3-40f0700f0669 | method: DELETE | body: {} | userId: fd136760-af4e-47bd-9d78-d738dfae9955 | 
+
+2024-04-24 09:39:40 AM | info | User Update | url: /anhvh2208@gmail.com | method: PUT | body: {"avatar":"111111"} | userId: fd136760-af4e-47bd-9d78-d738dfae9955 | 
+
+2024-04-24 09:45:16 AM | info | Login | url: /login | method: POST | body: {"email":"anhvh2208@gmail.com","password":"123"} | userId:  | 
+
+2024-04-24 09:45:30 AM | info | User get info | url: /anhvh2208@gmail.com | method: GET | body: {} | userId: fd136760-af4e-47bd-9d78-d738dfae9955 | 
+
+2024-04-24 09:45:50 AM | info | User get info | url: /anhvh2208@gmail.com | method: GET | body: {} | userId: fd136760-af4e-47bd-9d78-d738dfae9955 | 
+
+2024-04-24 09:47:30 AM | info | Login | url: /login | method: POST | body: {"email":"anhvh2208@gmail.com","password":"123"} | userId:  | 
+
+2024-04-24 09:48:04 AM | info | Admin create List Schema | url: /create | method: POST | body: {"title":"Top Action Movie","type":"Movie","genre":"Action"} | userId: fd136760-af4e-47bd-9d78-d738dfae9955 | 
+
+2024-04-24 09:49:19 AM | info | Login | url: /login | method: POST | body: {"email":"anhvh2208@gmail.com","password":"123"} | userId:  | 
+
+2024-04-24 09:49:27 AM | info | Get All List Schema | url: / | method: GET | body: {} | userId: fd136760-af4e-47bd-9d78-d738dfae9955 | 
+
+2024-04-24 09:50:00 AM | info | Get All List Schema | url: / | method: GET | body: {} | userId: fd136760-af4e-47bd-9d78-d738dfae9955 | 
+
+2024-04-24 09:51:21 AM | info | Get All List Schema | url: /api/listSchema | method: GET | body: {} | userId: fd136760-af4e-47bd-9d78-d738dfae9955 | 
+
+2024-04-24 09:51:42 AM | info | Get All List Schema | url: /api/listSchema | method: GET | body: {} | userId: fd136760-af4e-47bd-9d78-d738dfae9955 | 
+
+2024-04-24 09:52:27 AM | info | Admin create List Schema | url: /api/listSchema/create | method: POST | body: {"title":"Top Action Movie","type":"Movie","genre":"Action"} | userId: fd136760-af4e-47bd-9d78-d738dfae9955 | 
+
+2024-04-24 09:52:50 AM | info | Get All List Schema | url: /api/listSchema?type=Series&genre=Action | method: GET | body: {} | userId: fd136760-af4e-47bd-9d78-d738dfae9955 | 
+
+2024-04-24 09:53:14 AM | info | Get All List Schema | url: /api/listSchema?type=Series&genre=Action | method: GET | body: {} | userId: fd136760-af4e-47bd-9d78-d738dfae9955 | 
+
+2024-04-24 09:55:42 AM | info | Login | url: /login | method: POST | body: {"email":"anhvh2208@gmail.com","password":"123"} | userId:  | 
+
+2024-04-24 09:55:52 AM | info | Admin Delete List Schema | url: /api/listSchema/74f64c4d-59eb-41ea-8837-04f897ea54e1 | method: DELETE | body: {} | userId: fd136760-af4e-47bd-9d78-d738dfae9955 | 
+
+2024-04-24 10:07:40 AM | info | Login | url: /login | method: POST | body: {"email":"anhvh2208@gmail.com","password":"123"} | userId:  | 
+
+2024-04-24 10:07:50 AM | info | Admin delete Movie | url: /api/movie/410cc81d-9391-4b60-8d22-8e35637880f9 | method: DELETE | body: {} | userId: fd136760-af4e-47bd-9d78-d738dfae9955 | 
+
+2024-04-24 10:08:20 AM | info | Admin create Movie | url: /api/movie | method: POST | body: {"title":"Ma Tốc Độ","desc":"Jonny là một tay lái mô tô siêu hạng chuyên biểu diễn những pha mạo hiểm trên đường phố. Khi cha mắc bệnh ung thư, anh đành phải ký một bản khế ước với tử thần để cứu mạng cha. Khi màn đêm buông xuống, anh trở thành ma tốc độ với chiếc đầu lâu rực lửa và chiếc mô tô phân khối lớn đi săn tìm văn tự ghi tên các linh hồn nộp cho ác quỷ. Nhưng rồi Jonny bị ác quỷ phản bội, cha anh vẫn chết mà người yêu thì rời xa anh, anh trở thành người đứng giữa cuộc chiến của hai cha con quỷ Mephistopheles.","img":"https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8LaVQiXBsnlo7MXCPK1nXTVARUZ.jpg","imgTitle":"https://media.themoviedb.org/t/p/w533_and_h300_bestv2/7zS58YPAw002RNejOF1vNB3XHbW.jpg","imgSm":"https://media.themoviedb.org/t/p/w220_and_h330_face/8LaVQiXBsnlo7MXCPK1nXTVARUZ.jpg","trailer":"https://youtu.be/KAE5ymVLmZg","video":"https://youtu.be/KAE5ymVLmZg","year":"2007","limit":"1h 54m","genre":"Aggressive,Action,Fiction","isSeries":false} | userId: fd136760-af4e-47bd-9d78-d738dfae9955 | 
+
+2024-04-24 10:09:26 AM | info | getMovieById | url: /api/movie/find/0c530019-e38b-4033-96f8-023be825d296 | method: GET | body: {} | userId: fd136760-af4e-47bd-9d78-d738dfae9955 | 
+
+2024-04-24 10:09:51 AM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-04-24 10:10:02 AM | info | getMovieById | url: /api/movie/find/0c530019-e38b-4033-96f8-023be825d296 | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-04-24 10:11:04 AM | info | getMovieByTitle | url: /api/movie/find?title=%C4%90i%20T%C3%ACm%20Nemo | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-04-24 10:11:47 AM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-04-24 10:22:25 AM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-04-24 10:22:40 AM | info | getMovieRandom | url: /api/movie/random?type=Movie | method: GET | body: {} | userId: 6eb6bc37-811d-40ba-acbf-031e53b9e181 | 
+
+2024-04-24 10:23:49 AM | info | Login | url: /login | method: POST | body: {"email":"anhvh2208@gmail.com","password":"123"} | userId:  | 
+
+2024-04-24 10:27:16 AM | info | Login | url: /login | method: POST | body: {"email":"anhvh2208@gmail.com","password":"123"} | userId:  | 
+
+2024-04-24 10:28:10 AM | info | deleteMyList | url: /api/myList?userId=fd136760-af4e-47bd-9d78-d738dfae9955&myListId=8fb71e30-2c07-4eb6-ab8f-6a0e5580f4c7 | method: DELETE | body: {} | userId: fd136760-af4e-47bd-9d78-d738dfae9955 | 
+
+2024-04-24 10:28:32 AM | info | User add movie to My List | url: /api/mylist | method: POST | body: {"userId":"fd136760-af4e-47bd-9d78-d738dfae9955","movieId":"d12eb62f-fda3-4531-8a1f-24ddf0fdcf4b"} | userId: fd136760-af4e-47bd-9d78-d738dfae9955 | 
+

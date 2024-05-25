@@ -1,0 +1,6 @@
+2024-05-18 09:16:22 AM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-18 02:21:44 PM | info | get all user | url: / | method: GET | body: {} | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-18 02:21:44 PM | info | get all user | url: / | method: GET | body: {} | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+

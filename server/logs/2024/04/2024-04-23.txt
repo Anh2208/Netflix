@@ -1,0 +1,12 @@
+2024-04-23 09:04:37.539 PM | error | Validation error | url: /api/auth/register | method: POST | body: {"username":"jokeay1","email":"test1@gmail.com","password":"123"} 
+
+2024-04-23 09:05:00.178 PM | info | Thông tin email hoặc mật khẩu không đúng | url: /api/auth/login | method: POST | body: {"email":"anhvh2208@gmail.co1m","password":"123"} 
+
+2024-04-23 09:05:54.592 PM | info | Không tìm thấy User | url: /api/user/c5fccc8b-c6da-4d19-8d5a-34a4d5ba13651 | method: DELETE | body: {} 
+
+2024-04-23 09:11:44.980 PM | error | Validation error | url: /api/auth/register | method: POST | body: {"username":"jokeay1","email":"test1@gmail.com","password":"123"} 
+
+2024-04-23 09:21:50.185 PM | error | Validation error | url: /api/auth/register | method: POST | body: {"username":"jokeay1","email":"test1@gmail.com","password":"123"} 
+
+2024-04-23 09:27:07.564 PM | info | Thông tin email hoặc mật khẩu không đúng | url: /api/auth/login | method: POST | body: {"email":"anhvh2208@gmail.com1","password":"123"} 
+

@@ -1,0 +1,264 @@
+2024-05-21 08:57:48 AM | info | Login | url: /login | method: POST | body: {"email":"anhvh1412@gmail.com","password":"123"} | userId:  | 
+
+2024-05-21 02:20:51 PM | info | User updapte | url: /api/user/anhvh1412@gmail.com | method: PUT | body: {"password":"123","newpassword":"123"} | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 02:30:36 PM | info | Admin create Movie | url: /api/movie | method: POST | body: {"title":"Hansel & Gretel: Thợ Săn Phù Thủy","desc":"Chuyện phim bắt đầu 15 năm sau khi hai anh em Hansel (Jeremy Renner) và Gretel (Gemma Arterton) thoát khỏi mụ phù thủy ăn thịt trẻ em, kẻ đã thay đổi cuộc sống của họ mãi mãi và cho họ cơ hội nếm trải mùi thù hận. Sau nhiều năm, hai anh em trở thành những thợ săn tiền thưởng với kỹ năng vượt bậc, toàn tâm toàn ý cho sự nghiệp truy đuổi và tiêu diệt những mụ phù thuỷ ác trốn trong rừng sâu. Hai nhân vật chính, Hansel và Gretel, trong phim. Ảnh: Paramount. Nhưng rồi thị trấn nhỏ với những căn nhà gỗ quen thuộc lại phải đối mặt với cơn ác mộng khi những đứa trẻ vô tội bắt đầu mất tích. Hansel và Gretel đứng trước một thứ ác hiểm hơn bất cứ phù thủy nào mà mình từng săn đuổi - kẻ có thể hé lộ vài bí mật về quá khứ ...","year":"2013-01-17","limit":88,"genre":["Phim Giả Tượng","Phim Kinh Dị","Phim Hành Động"],"language":"en","actor":[{"name":"Jeremy Renner","imageUrl":"https://image.tmdb.org/t/p/w500/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"},{"name":"Gemma Arterton","imageUrl":"https://image.tmdb.org/t/p/w500/Alfm28oyHNiYweNCUaMmrVjVMAT.jpg"},{"name":"Famke Janssen","imageUrl":"https://image.tmdb.org/t/p/w500/nt4fpE3cerdDWyZFiRkYRDcOYh4.jpg"},{"name":"Pihla Viitala","imageUrl":"https://image.tmdb.org/t/p/w500/4arJbR42gQfEdWOrnZKIJTuLCLF.jpg"},{"name":"Derek Mears","imageUrl":"https://image.tmdb.org/t/p/w500/2ckpSGUa4EDKWS1KMP0hLtFUWi.jpg"},{"name":"Robin Atkin Downes","imageUrl":"https://image.tmdb.org/t/p/w500/qb4xPIJGiKyiQ2MhSDQzFWxN0jS.jpg"},{"name":"Ingrid Bolsø Berdal","imageUrl":"https://image.tmdb.org/t/p/w500/iv9RaskT1WronDXaTKh9mI5KNUn.jpg"},{"name":"Joanna Kulig","imageUrl":"https://image.tmdb.org/t/p/w500/cgeszBdZ8Z8rcEOo9wAVMZsaGmd.jpg"},{"name":"Thomas Mann","imageUrl":"https://image.tmdb.org/t/p/w500/cJO10vU19SL82pgMB6LdAijDSJv.jpg"},{"name":"Peter Stormare","imageUrl":"https://image.tmdb.org/t/p/w500/5muzSVt66Qxc8KuVbq0phZIN9tj.jpg"},{"name":"Bjørn Sundquist","imageUrl":"https://image.tmdb.org/t/p/w500/rcyiS1fiGAngHYZoVor5Xiznewp.jpg"},{"name":"Rainer Bock","imageUrl":"https://image.tmdb.org/t/p/w500/wLn46JXsZDt0pVnheUEWJZ8IvHo.jpg"},{"name":"Thomas Scharff","imageUrl":"https://image.tmdb.org/t/p/w500/dYpOwVMaR9PykeI9KcC0dGrnvAG.jpg"},{"name":"Kathrin Kühnel","imageUrl":"https://image.tmdb.org/t/p/w500/5lbOjoYMuBdI2juRqtkUGR7MFvp.jpg"},{"name":"Zoë Bell","imageUrl":"https://image.tmdb.org/t/p/w500/fDckmfcIrrdcOgyGifVF2FvQtiE.jpg"},{"name":"Monique Ganderton","imageUrl":"https://image.tmdb.org/t/p/w500/kBhk7VQr42ge3g5iuLXsbpgWeIa.jpg"},{"name":"Christian Rubeck","imageUrl":"https://image.tmdb.org/t/p/w500/frtmvN1vS34tJxzP1c51es9h44r.jpg"},{"name":"Cedric Eich","imageUrl":"https://image.tmdb.org/t/p/w500/6rUDPnVyEfsXIbjJU4iEaxHsA2h.jpg"},{"name":"Alea Sophia Boudodimos","imageUrl":"https://image.tmdb.org/t/p/w500/7ApyqtMHKYvCcMi52FwHma0mizB.jpg"},{"name":"Matthias Ziesing","imageUrl":"https://image.tmdb.org/t/p/w500/ae9UoCaRfpb44ZM922kAc8QNuP8.jpg"},{"name":"Sebastian Hülk","imageUrl":"https://image.tmdb.org/t/p/w500/qmEnennLfGF2ksDwbt3Pqdo49UQ.jpg"},{"name":"Vegar Hoel","imageUrl":"https://image.tmdb.org/t/p/w500/9wzMs9gVGAPcJA0wdCPYhWHuHxT.jpg"},{"name":"Jeppe Beck Laursen","imageUrl":"https://image.tmdb.org/t/p/w500/v5RKCoJylSLpAfoTqYExwuRRrBD.jpg"},{"name":"Stig Frode Henriksen","imageUrl":"https://image.tmdb.org/t/p/w500/fJIFhe2gXh2akRiSXPSCGmTOaP7.jpg"},{"name":"Rose Wakesho","imageUrl":"https://image.tmdb.org/t/p/w500/gfyvLXH5Gknog40WMwHkCEfhbNe.jpg"},{"name":"Lucy Ella von Scheele","imageUrl":"https://image.tmdb.org/t/p/w500/6loOhBt2mhFIsYOaQf0tHQQ3CX9.jpg"},{"name":"Stephanie Corneliussen","imageUrl":"https://image.tmdb.org/t/p/w500/1GHECMoMmSkKiYkzRp0VsYxh6kJ.jpg"},{"name":"Vanessa Wieduwilt","imageUrl":"https://image.tmdb.org/t/p/w500/g4zDoVp8ahrsAmyFMRrm0WoQxtc.jpg"},{"name":"Tommy Wirkola","imageUrl":"https://image.tmdb.org/t/p/w500/lhvD0FltdzJqrI5xr5IN90nyh6f.jpg"}]} | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 02:31:11 PM | error | Validation error | url: /api/movie | method: POST | body: {"title":"Hansel & Gretel: Thợ Săn Phù Thủy","desc":"Chuyện phim bắt đầu 15 năm sau khi hai anh em Hansel (Jeremy Renner) và Gretel (Gemma Arterton) thoát khỏi mụ phù thủy ăn thịt trẻ em, kẻ đã thay đổi cuộc sống của họ mãi mãi và cho họ cơ hội nếm trải mùi thù hận. Sau nhiều năm, hai anh em trở thành những thợ săn tiền thưởng với kỹ năng vượt bậc, toàn tâm toàn ý cho sự nghiệp truy đuổi và tiêu diệt những mụ phù thuỷ ác trốn trong rừng sâu. Hai nhân vật chính, Hansel và Gretel, trong phim. Ảnh: Paramount. Nhưng rồi thị trấn nhỏ với những căn nhà gỗ quen thuộc lại phải đối mặt với cơn ác mộng khi những đứa trẻ vô tội bắt đầu mất tích. Hansel và Gretel đứng trước một thứ ác hiểm hơn bất cứ phù thủy nào mà mình từng săn đuổi - kẻ có thể hé lộ vài bí mật về quá khứ ...","year":"2013-01-17","limit":88,"genre":["Phim Giả Tượng","Phim Kinh Dị","Phim Hành Động"],"language":"en","actor":[{"name":"Jeremy Renner","imageUrl":"https://image.tmdb.org/t/p/w500/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"},{"name":"Gemma Arterton","imageUrl":"https://image.tmdb.org/t/p/w500/Alfm28oyHNiYweNCUaMmrVjVMAT.jpg"},{"name":"Famke Janssen","imageUrl":"https://image.tmdb.org/t/p/w500/nt4fpE3cerdDWyZFiRkYRDcOYh4.jpg"},{"name":"Pihla Viitala","imageUrl":"https://image.tmdb.org/t/p/w500/4arJbR42gQfEdWOrnZKIJTuLCLF.jpg"},{"name":"Derek Mears","imageUrl":"https://image.tmdb.org/t/p/w500/2ckpSGUa4EDKWS1KMP0hLtFUWi.jpg"},{"name":"Robin Atkin Downes","imageUrl":"https://image.tmdb.org/t/p/w500/qb4xPIJGiKyiQ2MhSDQzFWxN0jS.jpg"},{"name":"Ingrid Bolsø Berdal","imageUrl":"https://image.tmdb.org/t/p/w500/iv9RaskT1WronDXaTKh9mI5KNUn.jpg"},{"name":"Joanna Kulig","imageUrl":"https://image.tmdb.org/t/p/w500/cgeszBdZ8Z8rcEOo9wAVMZsaGmd.jpg"},{"name":"Thomas Mann","imageUrl":"https://image.tmdb.org/t/p/w500/cJO10vU19SL82pgMB6LdAijDSJv.jpg"},{"name":"Peter Stormare","imageUrl":"https://image.tmdb.org/t/p/w500/5muzSVt66Qxc8KuVbq0phZIN9tj.jpg"},{"name":"Bjørn Sundquist","imageUrl":"https://image.tmdb.org/t/p/w500/rcyiS1fiGAngHYZoVor5Xiznewp.jpg"},{"name":"Rainer Bock","imageUrl":"https://image.tmdb.org/t/p/w500/wLn46JXsZDt0pVnheUEWJZ8IvHo.jpg"},{"name":"Thomas Scharff","imageUrl":"https://image.tmdb.org/t/p/w500/dYpOwVMaR9PykeI9KcC0dGrnvAG.jpg"},{"name":"Kathrin Kühnel","imageUrl":"https://image.tmdb.org/t/p/w500/5lbOjoYMuBdI2juRqtkUGR7MFvp.jpg"},{"name":"Zoë Bell","imageUrl":"https://image.tmdb.org/t/p/w500/fDckmfcIrrdcOgyGifVF2FvQtiE.jpg"},{"name":"Monique Ganderton","imageUrl":"https://image.tmdb.org/t/p/w500/kBhk7VQr42ge3g5iuLXsbpgWeIa.jpg"},{"name":"Christian Rubeck","imageUrl":"https://image.tmdb.org/t/p/w500/frtmvN1vS34tJxzP1c51es9h44r.jpg"},{"name":"Cedric Eich","imageUrl":"https://image.tmdb.org/t/p/w500/6rUDPnVyEfsXIbjJU4iEaxHsA2h.jpg"},{"name":"Alea Sophia Boudodimos","imageUrl":"https://image.tmdb.org/t/p/w500/7ApyqtMHKYvCcMi52FwHma0mizB.jpg"},{"name":"Matthias Ziesing","imageUrl":"https://image.tmdb.org/t/p/w500/ae9UoCaRfpb44ZM922kAc8QNuP8.jpg"},{"name":"Sebastian Hülk","imageUrl":"https://image.tmdb.org/t/p/w500/qmEnennLfGF2ksDwbt3Pqdo49UQ.jpg"},{"name":"Vegar Hoel","imageUrl":"https://image.tmdb.org/t/p/w500/9wzMs9gVGAPcJA0wdCPYhWHuHxT.jpg"},{"name":"Jeppe Beck Laursen","imageUrl":"https://image.tmdb.org/t/p/w500/v5RKCoJylSLpAfoTqYExwuRRrBD.jpg"},{"name":"Stig Frode Henriksen","imageUrl":"https://image.tmdb.org/t/p/w500/fJIFhe2gXh2akRiSXPSCGmTOaP7.jpg"},{"name":"Rose Wakesho","imageUrl":"https://image.tmdb.org/t/p/w500/gfyvLXH5Gknog40WMwHkCEfhbNe.jpg"},{"name":"Lucy Ella von Scheele","imageUrl":"https://image.tmdb.org/t/p/w500/6loOhBt2mhFIsYOaQf0tHQQ3CX9.jpg"},{"name":"Stephanie Corneliussen","imageUrl":"https://image.tmdb.org/t/p/w500/1GHECMoMmSkKiYkzRp0VsYxh6kJ.jpg"},{"name":"Vanessa Wieduwilt","imageUrl":"https://image.tmdb.org/t/p/w500/g4zDoVp8ahrsAmyFMRrm0WoQxtc.jpg"},{"name":"Tommy Wirkola","imageUrl":"https://image.tmdb.org/t/p/w500/lhvD0FltdzJqrI5xr5IN90nyh6f.jpg"}]} | userId:  | 
+
+2024-05-21 02:31:11 PM | info | There is already a record with title = Hansel & Gretel: Thợ Săn Phù Thủy. Please use another value! | url: /api/movie | method: POST | body: {"title":"Hansel & Gretel: Thợ Săn Phù Thủy","desc":"Chuyện phim bắt đầu 15 năm sau khi hai anh em Hansel (Jeremy Renner) và Gretel (Gemma Arterton) thoát khỏi mụ phù thủy ăn thịt trẻ em, kẻ đã thay đổi cuộc sống của họ mãi mãi và cho họ cơ hội nếm trải mùi thù hận. Sau nhiều năm, hai anh em trở thành những thợ săn tiền thưởng với kỹ năng vượt bậc, toàn tâm toàn ý cho sự nghiệp truy đuổi và tiêu diệt những mụ phù thuỷ ác trốn trong rừng sâu. Hai nhân vật chính, Hansel và Gretel, trong phim. Ảnh: Paramount. Nhưng rồi thị trấn nhỏ với những căn nhà gỗ quen thuộc lại phải đối mặt với cơn ác mộng khi những đứa trẻ vô tội bắt đầu mất tích. Hansel và Gretel đứng trước một thứ ác hiểm hơn bất cứ phù thủy nào mà mình từng săn đuổi - kẻ có thể hé lộ vài bí mật về quá khứ ...","year":"2013-01-17","limit":88,"genre":["Phim Giả Tượng","Phim Kinh Dị","Phim Hành Động"],"language":"en","actor":[{"name":"Jeremy Renner","imageUrl":"https://image.tmdb.org/t/p/w500/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"},{"name":"Gemma Arterton","imageUrl":"https://image.tmdb.org/t/p/w500/Alfm28oyHNiYweNCUaMmrVjVMAT.jpg"},{"name":"Famke Janssen","imageUrl":"https://image.tmdb.org/t/p/w500/nt4fpE3cerdDWyZFiRkYRDcOYh4.jpg"},{"name":"Pihla Viitala","imageUrl":"https://image.tmdb.org/t/p/w500/4arJbR42gQfEdWOrnZKIJTuLCLF.jpg"},{"name":"Derek Mears","imageUrl":"https://image.tmdb.org/t/p/w500/2ckpSGUa4EDKWS1KMP0hLtFUWi.jpg"},{"name":"Robin Atkin Downes","imageUrl":"https://image.tmdb.org/t/p/w500/qb4xPIJGiKyiQ2MhSDQzFWxN0jS.jpg"},{"name":"Ingrid Bolsø Berdal","imageUrl":"https://image.tmdb.org/t/p/w500/iv9RaskT1WronDXaTKh9mI5KNUn.jpg"},{"name":"Joanna Kulig","imageUrl":"https://image.tmdb.org/t/p/w500/cgeszBdZ8Z8rcEOo9wAVMZsaGmd.jpg"},{"name":"Thomas Mann","imageUrl":"https://image.tmdb.org/t/p/w500/cJO10vU19SL82pgMB6LdAijDSJv.jpg"},{"name":"Peter Stormare","imageUrl":"https://image.tmdb.org/t/p/w500/5muzSVt66Qxc8KuVbq0phZIN9tj.jpg"},{"name":"Bjørn Sundquist","imageUrl":"https://image.tmdb.org/t/p/w500/rcyiS1fiGAngHYZoVor5Xiznewp.jpg"},{"name":"Rainer Bock","imageUrl":"https://image.tmdb.org/t/p/w500/wLn46JXsZDt0pVnheUEWJZ8IvHo.jpg"},{"name":"Thomas Scharff","imageUrl":"https://image.tmdb.org/t/p/w500/dYpOwVMaR9PykeI9KcC0dGrnvAG.jpg"},{"name":"Kathrin Kühnel","imageUrl":"https://image.tmdb.org/t/p/w500/5lbOjoYMuBdI2juRqtkUGR7MFvp.jpg"},{"name":"Zoë Bell","imageUrl":"https://image.tmdb.org/t/p/w500/fDckmfcIrrdcOgyGifVF2FvQtiE.jpg"},{"name":"Monique Ganderton","imageUrl":"https://image.tmdb.org/t/p/w500/kBhk7VQr42ge3g5iuLXsbpgWeIa.jpg"},{"name":"Christian Rubeck","imageUrl":"https://image.tmdb.org/t/p/w500/frtmvN1vS34tJxzP1c51es9h44r.jpg"},{"name":"Cedric Eich","imageUrl":"https://image.tmdb.org/t/p/w500/6rUDPnVyEfsXIbjJU4iEaxHsA2h.jpg"},{"name":"Alea Sophia Boudodimos","imageUrl":"https://image.tmdb.org/t/p/w500/7ApyqtMHKYvCcMi52FwHma0mizB.jpg"},{"name":"Matthias Ziesing","imageUrl":"https://image.tmdb.org/t/p/w500/ae9UoCaRfpb44ZM922kAc8QNuP8.jpg"},{"name":"Sebastian Hülk","imageUrl":"https://image.tmdb.org/t/p/w500/qmEnennLfGF2ksDwbt3Pqdo49UQ.jpg"},{"name":"Vegar Hoel","imageUrl":"https://image.tmdb.org/t/p/w500/9wzMs9gVGAPcJA0wdCPYhWHuHxT.jpg"},{"name":"Jeppe Beck Laursen","imageUrl":"https://image.tmdb.org/t/p/w500/v5RKCoJylSLpAfoTqYExwuRRrBD.jpg"},{"name":"Stig Frode Henriksen","imageUrl":"https://image.tmdb.org/t/p/w500/fJIFhe2gXh2akRiSXPSCGmTOaP7.jpg"},{"name":"Rose Wakesho","imageUrl":"https://image.tmdb.org/t/p/w500/gfyvLXH5Gknog40WMwHkCEfhbNe.jpg"},{"name":"Lucy Ella von Scheele","imageUrl":"https://image.tmdb.org/t/p/w500/6loOhBt2mhFIsYOaQf0tHQQ3CX9.jpg"},{"name":"Stephanie Corneliussen","imageUrl":"https://image.tmdb.org/t/p/w500/1GHECMoMmSkKiYkzRp0VsYxh6kJ.jpg"},{"name":"Vanessa Wieduwilt","imageUrl":"https://image.tmdb.org/t/p/w500/g4zDoVp8ahrsAmyFMRrm0WoQxtc.jpg"},{"name":"Tommy Wirkola","imageUrl":"https://image.tmdb.org/t/p/w500/lhvD0FltdzJqrI5xr5IN90nyh6f.jpg"}]} | userId:  | 
+
+2024-05-21 02:31:54 PM | info | Admin create Movie | url: /api/movie | method: POST | body: {"title":"Hansel & Gretel: Thợ Săn Phù Thủy","desc":"Chuyện phim bắt đầu 15 năm sau khi hai anh em Hansel (Jeremy Renner) và Gretel (Gemma Arterton) thoát khỏi mụ phù thủy ăn thịt trẻ em, kẻ đã thay đổi cuộc sống của họ mãi mãi và cho họ cơ hội nếm trải mùi thù hận. Sau nhiều năm, hai anh em trở thành những thợ săn tiền thưởng với kỹ năng vượt bậc, toàn tâm toàn ý cho sự nghiệp truy đuổi và tiêu diệt những mụ phù thuỷ ác trốn trong rừng sâu. Hai nhân vật chính, Hansel và Gretel, trong phim. Ảnh: Paramount. Nhưng rồi thị trấn nhỏ với những căn nhà gỗ quen thuộc lại phải đối mặt với cơn ác mộng khi những đứa trẻ vô tội bắt đầu mất tích. Hansel và Gretel đứng trước một thứ ác hiểm hơn bất cứ phù thủy nào mà mình từng săn đuổi - kẻ có thể hé lộ vài bí mật về quá khứ ...","year":"2013-01-17","limit":88,"genre":["Phim Giả Tượng","Phim Kinh Dị","Phim Hành Động"],"language":"en","actor":[{"name":"Jeremy Renner","imageUrl":"https://image.tmdb.org/t/p/w500/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"},{"name":"Gemma Arterton","imageUrl":"https://image.tmdb.org/t/p/w500/Alfm28oyHNiYweNCUaMmrVjVMAT.jpg"},{"name":"Famke Janssen","imageUrl":"https://image.tmdb.org/t/p/w500/nt4fpE3cerdDWyZFiRkYRDcOYh4.jpg"},{"name":"Pihla Viitala","imageUrl":"https://image.tmdb.org/t/p/w500/4arJbR42gQfEdWOrnZKIJTuLCLF.jpg"},{"name":"Derek Mears","imageUrl":"https://image.tmdb.org/t/p/w500/2ckpSGUa4EDKWS1KMP0hLtFUWi.jpg"},{"name":"Robin Atkin Downes","imageUrl":"https://image.tmdb.org/t/p/w500/qb4xPIJGiKyiQ2MhSDQzFWxN0jS.jpg"},{"name":"Ingrid Bolsø Berdal","imageUrl":"https://image.tmdb.org/t/p/w500/iv9RaskT1WronDXaTKh9mI5KNUn.jpg"},{"name":"Joanna Kulig","imageUrl":"https://image.tmdb.org/t/p/w500/cgeszBdZ8Z8rcEOo9wAVMZsaGmd.jpg"},{"name":"Thomas Mann","imageUrl":"https://image.tmdb.org/t/p/w500/cJO10vU19SL82pgMB6LdAijDSJv.jpg"},{"name":"Peter Stormare","imageUrl":"https://image.tmdb.org/t/p/w500/5muzSVt66Qxc8KuVbq0phZIN9tj.jpg"},{"name":"Bjørn Sundquist","imageUrl":"https://image.tmdb.org/t/p/w500/rcyiS1fiGAngHYZoVor5Xiznewp.jpg"},{"name":"Rainer Bock","imageUrl":"https://image.tmdb.org/t/p/w500/wLn46JXsZDt0pVnheUEWJZ8IvHo.jpg"},{"name":"Thomas Scharff","imageUrl":"https://image.tmdb.org/t/p/w500/dYpOwVMaR9PykeI9KcC0dGrnvAG.jpg"},{"name":"Kathrin Kühnel","imageUrl":"https://image.tmdb.org/t/p/w500/5lbOjoYMuBdI2juRqtkUGR7MFvp.jpg"},{"name":"Zoë Bell","imageUrl":"https://image.tmdb.org/t/p/w500/fDckmfcIrrdcOgyGifVF2FvQtiE.jpg"},{"name":"Monique Ganderton","imageUrl":"https://image.tmdb.org/t/p/w500/kBhk7VQr42ge3g5iuLXsbpgWeIa.jpg"},{"name":"Christian Rubeck","imageUrl":"https://image.tmdb.org/t/p/w500/frtmvN1vS34tJxzP1c51es9h44r.jpg"},{"name":"Cedric Eich","imageUrl":"https://image.tmdb.org/t/p/w500/6rUDPnVyEfsXIbjJU4iEaxHsA2h.jpg"},{"name":"Alea Sophia Boudodimos","imageUrl":"https://image.tmdb.org/t/p/w500/7ApyqtMHKYvCcMi52FwHma0mizB.jpg"},{"name":"Matthias Ziesing","imageUrl":"https://image.tmdb.org/t/p/w500/ae9UoCaRfpb44ZM922kAc8QNuP8.jpg"},{"name":"Sebastian Hülk","imageUrl":"https://image.tmdb.org/t/p/w500/qmEnennLfGF2ksDwbt3Pqdo49UQ.jpg"},{"name":"Vegar Hoel","imageUrl":"https://image.tmdb.org/t/p/w500/9wzMs9gVGAPcJA0wdCPYhWHuHxT.jpg"},{"name":"Jeppe Beck Laursen","imageUrl":"https://image.tmdb.org/t/p/w500/v5RKCoJylSLpAfoTqYExwuRRrBD.jpg"},{"name":"Stig Frode Henriksen","imageUrl":"https://image.tmdb.org/t/p/w500/fJIFhe2gXh2akRiSXPSCGmTOaP7.jpg"},{"name":"Rose Wakesho","imageUrl":"https://image.tmdb.org/t/p/w500/gfyvLXH5Gknog40WMwHkCEfhbNe.jpg"},{"name":"Lucy Ella von Scheele","imageUrl":"https://image.tmdb.org/t/p/w500/6loOhBt2mhFIsYOaQf0tHQQ3CX9.jpg"},{"name":"Stephanie Corneliussen","imageUrl":"https://image.tmdb.org/t/p/w500/1GHECMoMmSkKiYkzRp0VsYxh6kJ.jpg"},{"name":"Vanessa Wieduwilt","imageUrl":"https://image.tmdb.org/t/p/w500/g4zDoVp8ahrsAmyFMRrm0WoQxtc.jpg"},{"name":"Tommy Wirkola","imageUrl":"https://image.tmdb.org/t/p/w500/lhvD0FltdzJqrI5xr5IN90nyh6f.jpg"}]} | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 02:32:15 PM | info | Admin create Movie | url: /api/movie | method: POST | body: {"title":"Hansel & Gretel: Thợ Săn Phù Thủy","desc":"Chuyện phim bắt đầu 15 năm sau khi hai anh em Hansel (Jeremy Renner) và Gretel (Gemma Arterton) thoát khỏi mụ phù thủy ăn thịt trẻ em, kẻ đã thay đổi cuộc sống của họ mãi mãi và cho họ cơ hội nếm trải mùi thù hận. Sau nhiều năm, hai anh em trở thành những thợ săn tiền thưởng với kỹ năng vượt bậc, toàn tâm toàn ý cho sự nghiệp truy đuổi và tiêu diệt những mụ phù thuỷ ác trốn trong rừng sâu. Hai nhân vật chính, Hansel và Gretel, trong phim. Ảnh: Paramount. Nhưng rồi thị trấn nhỏ với những căn nhà gỗ quen thuộc lại phải đối mặt với cơn ác mộng khi những đứa trẻ vô tội bắt đầu mất tích. Hansel và Gretel đứng trước một thứ ác hiểm hơn bất cứ phù thủy nào mà mình từng săn đuổi - kẻ có thể hé lộ vài bí mật về quá khứ ...","year":"2013-01-17","limit":88,"genre":["Phim Giả Tượng","Phim Kinh Dị","Phim Hành Động"],"language":"en","actor":[{"name":"Jeremy Renner","imageUrl":"https://image.tmdb.org/t/p/w500/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"},{"name":"Gemma Arterton","imageUrl":"https://image.tmdb.org/t/p/w500/Alfm28oyHNiYweNCUaMmrVjVMAT.jpg"},{"name":"Famke Janssen","imageUrl":"https://image.tmdb.org/t/p/w500/nt4fpE3cerdDWyZFiRkYRDcOYh4.jpg"},{"name":"Pihla Viitala","imageUrl":"https://image.tmdb.org/t/p/w500/4arJbR42gQfEdWOrnZKIJTuLCLF.jpg"},{"name":"Derek Mears","imageUrl":"https://image.tmdb.org/t/p/w500/2ckpSGUa4EDKWS1KMP0hLtFUWi.jpg"},{"name":"Robin Atkin Downes","imageUrl":"https://image.tmdb.org/t/p/w500/qb4xPIJGiKyiQ2MhSDQzFWxN0jS.jpg"},{"name":"Ingrid Bolsø Berdal","imageUrl":"https://image.tmdb.org/t/p/w500/iv9RaskT1WronDXaTKh9mI5KNUn.jpg"},{"name":"Joanna Kulig","imageUrl":"https://image.tmdb.org/t/p/w500/cgeszBdZ8Z8rcEOo9wAVMZsaGmd.jpg"},{"name":"Thomas Mann","imageUrl":"https://image.tmdb.org/t/p/w500/cJO10vU19SL82pgMB6LdAijDSJv.jpg"},{"name":"Peter Stormare","imageUrl":"https://image.tmdb.org/t/p/w500/5muzSVt66Qxc8KuVbq0phZIN9tj.jpg"},{"name":"Bjørn Sundquist","imageUrl":"https://image.tmdb.org/t/p/w500/rcyiS1fiGAngHYZoVor5Xiznewp.jpg"},{"name":"Rainer Bock","imageUrl":"https://image.tmdb.org/t/p/w500/wLn46JXsZDt0pVnheUEWJZ8IvHo.jpg"},{"name":"Thomas Scharff","imageUrl":"https://image.tmdb.org/t/p/w500/dYpOwVMaR9PykeI9KcC0dGrnvAG.jpg"},{"name":"Kathrin Kühnel","imageUrl":"https://image.tmdb.org/t/p/w500/5lbOjoYMuBdI2juRqtkUGR7MFvp.jpg"},{"name":"Zoë Bell","imageUrl":"https://image.tmdb.org/t/p/w500/fDckmfcIrrdcOgyGifVF2FvQtiE.jpg"},{"name":"Monique Ganderton","imageUrl":"https://image.tmdb.org/t/p/w500/kBhk7VQr42ge3g5iuLXsbpgWeIa.jpg"},{"name":"Christian Rubeck","imageUrl":"https://image.tmdb.org/t/p/w500/frtmvN1vS34tJxzP1c51es9h44r.jpg"},{"name":"Cedric Eich","imageUrl":"https://image.tmdb.org/t/p/w500/6rUDPnVyEfsXIbjJU4iEaxHsA2h.jpg"},{"name":"Alea Sophia Boudodimos","imageUrl":"https://image.tmdb.org/t/p/w500/7ApyqtMHKYvCcMi52FwHma0mizB.jpg"},{"name":"Matthias Ziesing","imageUrl":"https://image.tmdb.org/t/p/w500/ae9UoCaRfpb44ZM922kAc8QNuP8.jpg"},{"name":"Sebastian Hülk","imageUrl":"https://image.tmdb.org/t/p/w500/qmEnennLfGF2ksDwbt3Pqdo49UQ.jpg"},{"name":"Vegar Hoel","imageUrl":"https://image.tmdb.org/t/p/w500/9wzMs9gVGAPcJA0wdCPYhWHuHxT.jpg"},{"name":"Jeppe Beck Laursen","imageUrl":"https://image.tmdb.org/t/p/w500/v5RKCoJylSLpAfoTqYExwuRRrBD.jpg"},{"name":"Stig Frode Henriksen","imageUrl":"https://image.tmdb.org/t/p/w500/fJIFhe2gXh2akRiSXPSCGmTOaP7.jpg"},{"name":"Rose Wakesho","imageUrl":"https://image.tmdb.org/t/p/w500/gfyvLXH5Gknog40WMwHkCEfhbNe.jpg"},{"name":"Lucy Ella von Scheele","imageUrl":"https://image.tmdb.org/t/p/w500/6loOhBt2mhFIsYOaQf0tHQQ3CX9.jpg"},{"name":"Stephanie Corneliussen","imageUrl":"https://image.tmdb.org/t/p/w500/1GHECMoMmSkKiYkzRp0VsYxh6kJ.jpg"},{"name":"Vanessa Wieduwilt","imageUrl":"https://image.tmdb.org/t/p/w500/g4zDoVp8ahrsAmyFMRrm0WoQxtc.jpg"},{"name":"Tommy Wirkola","imageUrl":"https://image.tmdb.org/t/p/w500/lhvD0FltdzJqrI5xr5IN90nyh6f.jpg"}]} | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 02:36:37 PM | error | Validation error | url: /api/movie | method: POST | body: {"title":"Hansel & Gretel: Thợ Săn Phù Thủy","desc":"Chuyện phim bắt đầu 15 năm sau khi hai anh em Hansel (Jeremy Renner) và Gretel (Gemma Arterton) thoát khỏi mụ phù thủy ăn thịt trẻ em, kẻ đã thay đổi cuộc sống của họ mãi mãi và cho họ cơ hội nếm trải mùi thù hận. Sau nhiều năm, hai anh em trở thành những thợ săn tiền thưởng với kỹ năng vượt bậc, toàn tâm toàn ý cho sự nghiệp truy đuổi và tiêu diệt những mụ phù thuỷ ác trốn trong rừng sâu. Hai nhân vật chính, Hansel và Gretel, trong phim. Ảnh: Paramount. Nhưng rồi thị trấn nhỏ với những căn nhà gỗ quen thuộc lại phải đối mặt với cơn ác mộng khi những đứa trẻ vô tội bắt đầu mất tích. Hansel và Gretel đứng trước một thứ ác hiểm hơn bất cứ phù thủy nào mà mình từng săn đuổi - kẻ có thể hé lộ vài bí mật về quá khứ ...","year":"2013-01-17","limit":88,"genre":["Phim Giả Tượng","Phim Kinh Dị","Phim Hành Động",""],"language":"en","actor":[{"name":"Jeremy Renner","imageUrl":"https://image.tmdb.org/t/p/w500/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"},{"name":"Gemma Arterton","imageUrl":"https://image.tmdb.org/t/p/w500/Alfm28oyHNiYweNCUaMmrVjVMAT.jpg"},{"name":"Famke Janssen","imageUrl":"https://image.tmdb.org/t/p/w500/nt4fpE3cerdDWyZFiRkYRDcOYh4.jpg"},{"name":"Pihla Viitala","imageUrl":"https://image.tmdb.org/t/p/w500/4arJbR42gQfEdWOrnZKIJTuLCLF.jpg"},{"name":"Derek Mears","imageUrl":"https://image.tmdb.org/t/p/w500/2ckpSGUa4EDKWS1KMP0hLtFUWi.jpg"},{"name":"Robin Atkin Downes","imageUrl":"https://image.tmdb.org/t/p/w500/qb4xPIJGiKyiQ2MhSDQzFWxN0jS.jpg"},{"name":"Ingrid Bolsø Berdal","imageUrl":"https://image.tmdb.org/t/p/w500/iv9RaskT1WronDXaTKh9mI5KNUn.jpg"},{"name":"Joanna Kulig","imageUrl":"https://image.tmdb.org/t/p/w500/cgeszBdZ8Z8rcEOo9wAVMZsaGmd.jpg"},{"name":"Thomas Mann","imageUrl":"https://image.tmdb.org/t/p/w500/cJO10vU19SL82pgMB6LdAijDSJv.jpg"},{"name":"Peter Stormare","imageUrl":"https://image.tmdb.org/t/p/w500/5muzSVt66Qxc8KuVbq0phZIN9tj.jpg"},{"name":"Bjørn Sundquist","imageUrl":"https://image.tmdb.org/t/p/w500/rcyiS1fiGAngHYZoVor5Xiznewp.jpg"},{"name":"Rainer Bock","imageUrl":"https://image.tmdb.org/t/p/w500/wLn46JXsZDt0pVnheUEWJZ8IvHo.jpg"},{"name":"Thomas Scharff","imageUrl":"https://image.tmdb.org/t/p/w500/dYpOwVMaR9PykeI9KcC0dGrnvAG.jpg"},{"name":"Kathrin Kühnel","imageUrl":"https://image.tmdb.org/t/p/w500/5lbOjoYMuBdI2juRqtkUGR7MFvp.jpg"},{"name":"Zoë Bell","imageUrl":"https://image.tmdb.org/t/p/w500/fDckmfcIrrdcOgyGifVF2FvQtiE.jpg"},{"name":"Monique Ganderton","imageUrl":"https://image.tmdb.org/t/p/w500/kBhk7VQr42ge3g5iuLXsbpgWeIa.jpg"},{"name":"Christian Rubeck","imageUrl":"https://image.tmdb.org/t/p/w500/frtmvN1vS34tJxzP1c51es9h44r.jpg"},{"name":"Cedric Eich","imageUrl":"https://image.tmdb.org/t/p/w500/6rUDPnVyEfsXIbjJU4iEaxHsA2h.jpg"},{"name":"Alea Sophia Boudodimos","imageUrl":"https://image.tmdb.org/t/p/w500/7ApyqtMHKYvCcMi52FwHma0mizB.jpg"},{"name":"Matthias Ziesing","imageUrl":"https://image.tmdb.org/t/p/w500/ae9UoCaRfpb44ZM922kAc8QNuP8.jpg"},{"name":"Sebastian Hülk","imageUrl":"https://image.tmdb.org/t/p/w500/qmEnennLfGF2ksDwbt3Pqdo49UQ.jpg"},{"name":"Vegar Hoel","imageUrl":"https://image.tmdb.org/t/p/w500/9wzMs9gVGAPcJA0wdCPYhWHuHxT.jpg"},{"name":"Jeppe Beck Laursen","imageUrl":"https://image.tmdb.org/t/p/w500/v5RKCoJylSLpAfoTqYExwuRRrBD.jpg"},{"name":"Stig Frode Henriksen","imageUrl":"https://image.tmdb.org/t/p/w500/fJIFhe2gXh2akRiSXPSCGmTOaP7.jpg"},{"name":"Rose Wakesho","imageUrl":"https://image.tmdb.org/t/p/w500/gfyvLXH5Gknog40WMwHkCEfhbNe.jpg"},{"name":"Lucy Ella von Scheele","imageUrl":"https://image.tmdb.org/t/p/w500/6loOhBt2mhFIsYOaQf0tHQQ3CX9.jpg"},{"name":"Stephanie Corneliussen","imageUrl":"https://image.tmdb.org/t/p/w500/1GHECMoMmSkKiYkzRp0VsYxh6kJ.jpg"},{"name":"Vanessa Wieduwilt","imageUrl":"https://image.tmdb.org/t/p/w500/g4zDoVp8ahrsAmyFMRrm0WoQxtc.jpg"},{"name":"Tommy Wirkola","imageUrl":"https://image.tmdb.org/t/p/w500/lhvD0FltdzJqrI5xr5IN90nyh6f.jpg"}]} | userId:  | 
+
+2024-05-21 02:36:37 PM | info | There is already a record with title = Hansel & Gretel: Thợ Săn Phù Thủy. Please use another value! | url: /api/movie | method: POST | body: {"title":"Hansel & Gretel: Thợ Săn Phù Thủy","desc":"Chuyện phim bắt đầu 15 năm sau khi hai anh em Hansel (Jeremy Renner) và Gretel (Gemma Arterton) thoát khỏi mụ phù thủy ăn thịt trẻ em, kẻ đã thay đổi cuộc sống của họ mãi mãi và cho họ cơ hội nếm trải mùi thù hận. Sau nhiều năm, hai anh em trở thành những thợ săn tiền thưởng với kỹ năng vượt bậc, toàn tâm toàn ý cho sự nghiệp truy đuổi và tiêu diệt những mụ phù thuỷ ác trốn trong rừng sâu. Hai nhân vật chính, Hansel và Gretel, trong phim. Ảnh: Paramount. Nhưng rồi thị trấn nhỏ với những căn nhà gỗ quen thuộc lại phải đối mặt với cơn ác mộng khi những đứa trẻ vô tội bắt đầu mất tích. Hansel và Gretel đứng trước một thứ ác hiểm hơn bất cứ phù thủy nào mà mình từng săn đuổi - kẻ có thể hé lộ vài bí mật về quá khứ ...","year":"2013-01-17","limit":88,"genre":["Phim Giả Tượng","Phim Kinh Dị","Phim Hành Động",""],"language":"en","actor":[{"name":"Jeremy Renner","imageUrl":"https://image.tmdb.org/t/p/w500/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"},{"name":"Gemma Arterton","imageUrl":"https://image.tmdb.org/t/p/w500/Alfm28oyHNiYweNCUaMmrVjVMAT.jpg"},{"name":"Famke Janssen","imageUrl":"https://image.tmdb.org/t/p/w500/nt4fpE3cerdDWyZFiRkYRDcOYh4.jpg"},{"name":"Pihla Viitala","imageUrl":"https://image.tmdb.org/t/p/w500/4arJbR42gQfEdWOrnZKIJTuLCLF.jpg"},{"name":"Derek Mears","imageUrl":"https://image.tmdb.org/t/p/w500/2ckpSGUa4EDKWS1KMP0hLtFUWi.jpg"},{"name":"Robin Atkin Downes","imageUrl":"https://image.tmdb.org/t/p/w500/qb4xPIJGiKyiQ2MhSDQzFWxN0jS.jpg"},{"name":"Ingrid Bolsø Berdal","imageUrl":"https://image.tmdb.org/t/p/w500/iv9RaskT1WronDXaTKh9mI5KNUn.jpg"},{"name":"Joanna Kulig","imageUrl":"https://image.tmdb.org/t/p/w500/cgeszBdZ8Z8rcEOo9wAVMZsaGmd.jpg"},{"name":"Thomas Mann","imageUrl":"https://image.tmdb.org/t/p/w500/cJO10vU19SL82pgMB6LdAijDSJv.jpg"},{"name":"Peter Stormare","imageUrl":"https://image.tmdb.org/t/p/w500/5muzSVt66Qxc8KuVbq0phZIN9tj.jpg"},{"name":"Bjørn Sundquist","imageUrl":"https://image.tmdb.org/t/p/w500/rcyiS1fiGAngHYZoVor5Xiznewp.jpg"},{"name":"Rainer Bock","imageUrl":"https://image.tmdb.org/t/p/w500/wLn46JXsZDt0pVnheUEWJZ8IvHo.jpg"},{"name":"Thomas Scharff","imageUrl":"https://image.tmdb.org/t/p/w500/dYpOwVMaR9PykeI9KcC0dGrnvAG.jpg"},{"name":"Kathrin Kühnel","imageUrl":"https://image.tmdb.org/t/p/w500/5lbOjoYMuBdI2juRqtkUGR7MFvp.jpg"},{"name":"Zoë Bell","imageUrl":"https://image.tmdb.org/t/p/w500/fDckmfcIrrdcOgyGifVF2FvQtiE.jpg"},{"name":"Monique Ganderton","imageUrl":"https://image.tmdb.org/t/p/w500/kBhk7VQr42ge3g5iuLXsbpgWeIa.jpg"},{"name":"Christian Rubeck","imageUrl":"https://image.tmdb.org/t/p/w500/frtmvN1vS34tJxzP1c51es9h44r.jpg"},{"name":"Cedric Eich","imageUrl":"https://image.tmdb.org/t/p/w500/6rUDPnVyEfsXIbjJU4iEaxHsA2h.jpg"},{"name":"Alea Sophia Boudodimos","imageUrl":"https://image.tmdb.org/t/p/w500/7ApyqtMHKYvCcMi52FwHma0mizB.jpg"},{"name":"Matthias Ziesing","imageUrl":"https://image.tmdb.org/t/p/w500/ae9UoCaRfpb44ZM922kAc8QNuP8.jpg"},{"name":"Sebastian Hülk","imageUrl":"https://image.tmdb.org/t/p/w500/qmEnennLfGF2ksDwbt3Pqdo49UQ.jpg"},{"name":"Vegar Hoel","imageUrl":"https://image.tmdb.org/t/p/w500/9wzMs9gVGAPcJA0wdCPYhWHuHxT.jpg"},{"name":"Jeppe Beck Laursen","imageUrl":"https://image.tmdb.org/t/p/w500/v5RKCoJylSLpAfoTqYExwuRRrBD.jpg"},{"name":"Stig Frode Henriksen","imageUrl":"https://image.tmdb.org/t/p/w500/fJIFhe2gXh2akRiSXPSCGmTOaP7.jpg"},{"name":"Rose Wakesho","imageUrl":"https://image.tmdb.org/t/p/w500/gfyvLXH5Gknog40WMwHkCEfhbNe.jpg"},{"name":"Lucy Ella von Scheele","imageUrl":"https://image.tmdb.org/t/p/w500/6loOhBt2mhFIsYOaQf0tHQQ3CX9.jpg"},{"name":"Stephanie Corneliussen","imageUrl":"https://image.tmdb.org/t/p/w500/1GHECMoMmSkKiYkzRp0VsYxh6kJ.jpg"},{"name":"Vanessa Wieduwilt","imageUrl":"https://image.tmdb.org/t/p/w500/g4zDoVp8ahrsAmyFMRrm0WoQxtc.jpg"},{"name":"Tommy Wirkola","imageUrl":"https://image.tmdb.org/t/p/w500/lhvD0FltdzJqrI5xr5IN90nyh6f.jpg"}]} | userId:  | 
+
+2024-05-21 02:36:52 PM | info | Admin create Movie | url: /api/movie | method: POST | body: {"title":"Hansel & Gretel: Thợ Săn Phù Thủy","desc":"Chuyện phim bắt đầu 15 năm sau khi hai anh em Hansel (Jeremy Renner) và Gretel (Gemma Arterton) thoát khỏi mụ phù thủy ăn thịt trẻ em, kẻ đã thay đổi cuộc sống của họ mãi mãi và cho họ cơ hội nếm trải mùi thù hận. Sau nhiều năm, hai anh em trở thành những thợ săn tiền thưởng với kỹ năng vượt bậc, toàn tâm toàn ý cho sự nghiệp truy đuổi và tiêu diệt những mụ phù thuỷ ác trốn trong rừng sâu. Hai nhân vật chính, Hansel và Gretel, trong phim. Ảnh: Paramount. Nhưng rồi thị trấn nhỏ với những căn nhà gỗ quen thuộc lại phải đối mặt với cơn ác mộng khi những đứa trẻ vô tội bắt đầu mất tích. Hansel và Gretel đứng trước một thứ ác hiểm hơn bất cứ phù thủy nào mà mình từng săn đuổi - kẻ có thể hé lộ vài bí mật về quá khứ ...","year":"2013-01-17","limit":88,"genre":["Phim Giả Tượng","Phim Kinh Dị","Phim Hành Động",""],"language":"en","actor":[{"name":"Jeremy Renner","imageUrl":"https://image.tmdb.org/t/p/w500/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"},{"name":"Gemma Arterton","imageUrl":"https://image.tmdb.org/t/p/w500/Alfm28oyHNiYweNCUaMmrVjVMAT.jpg"},{"name":"Famke Janssen","imageUrl":"https://image.tmdb.org/t/p/w500/nt4fpE3cerdDWyZFiRkYRDcOYh4.jpg"},{"name":"Pihla Viitala","imageUrl":"https://image.tmdb.org/t/p/w500/4arJbR42gQfEdWOrnZKIJTuLCLF.jpg"},{"name":"Derek Mears","imageUrl":"https://image.tmdb.org/t/p/w500/2ckpSGUa4EDKWS1KMP0hLtFUWi.jpg"},{"name":"Robin Atkin Downes","imageUrl":"https://image.tmdb.org/t/p/w500/qb4xPIJGiKyiQ2MhSDQzFWxN0jS.jpg"},{"name":"Ingrid Bolsø Berdal","imageUrl":"https://image.tmdb.org/t/p/w500/iv9RaskT1WronDXaTKh9mI5KNUn.jpg"},{"name":"Joanna Kulig","imageUrl":"https://image.tmdb.org/t/p/w500/cgeszBdZ8Z8rcEOo9wAVMZsaGmd.jpg"},{"name":"Thomas Mann","imageUrl":"https://image.tmdb.org/t/p/w500/cJO10vU19SL82pgMB6LdAijDSJv.jpg"},{"name":"Peter Stormare","imageUrl":"https://image.tmdb.org/t/p/w500/5muzSVt66Qxc8KuVbq0phZIN9tj.jpg"},{"name":"Bjørn Sundquist","imageUrl":"https://image.tmdb.org/t/p/w500/rcyiS1fiGAngHYZoVor5Xiznewp.jpg"},{"name":"Rainer Bock","imageUrl":"https://image.tmdb.org/t/p/w500/wLn46JXsZDt0pVnheUEWJZ8IvHo.jpg"},{"name":"Thomas Scharff","imageUrl":"https://image.tmdb.org/t/p/w500/dYpOwVMaR9PykeI9KcC0dGrnvAG.jpg"},{"name":"Kathrin Kühnel","imageUrl":"https://image.tmdb.org/t/p/w500/5lbOjoYMuBdI2juRqtkUGR7MFvp.jpg"},{"name":"Zoë Bell","imageUrl":"https://image.tmdb.org/t/p/w500/fDckmfcIrrdcOgyGifVF2FvQtiE.jpg"},{"name":"Monique Ganderton","imageUrl":"https://image.tmdb.org/t/p/w500/kBhk7VQr42ge3g5iuLXsbpgWeIa.jpg"},{"name":"Christian Rubeck","imageUrl":"https://image.tmdb.org/t/p/w500/frtmvN1vS34tJxzP1c51es9h44r.jpg"},{"name":"Cedric Eich","imageUrl":"https://image.tmdb.org/t/p/w500/6rUDPnVyEfsXIbjJU4iEaxHsA2h.jpg"},{"name":"Alea Sophia Boudodimos","imageUrl":"https://image.tmdb.org/t/p/w500/7ApyqtMHKYvCcMi52FwHma0mizB.jpg"},{"name":"Matthias Ziesing","imageUrl":"https://image.tmdb.org/t/p/w500/ae9UoCaRfpb44ZM922kAc8QNuP8.jpg"},{"name":"Sebastian Hülk","imageUrl":"https://image.tmdb.org/t/p/w500/qmEnennLfGF2ksDwbt3Pqdo49UQ.jpg"},{"name":"Vegar Hoel","imageUrl":"https://image.tmdb.org/t/p/w500/9wzMs9gVGAPcJA0wdCPYhWHuHxT.jpg"},{"name":"Jeppe Beck Laursen","imageUrl":"https://image.tmdb.org/t/p/w500/v5RKCoJylSLpAfoTqYExwuRRrBD.jpg"},{"name":"Stig Frode Henriksen","imageUrl":"https://image.tmdb.org/t/p/w500/fJIFhe2gXh2akRiSXPSCGmTOaP7.jpg"},{"name":"Rose Wakesho","imageUrl":"https://image.tmdb.org/t/p/w500/gfyvLXH5Gknog40WMwHkCEfhbNe.jpg"},{"name":"Lucy Ella von Scheele","imageUrl":"https://image.tmdb.org/t/p/w500/6loOhBt2mhFIsYOaQf0tHQQ3CX9.jpg"},{"name":"Stephanie Corneliussen","imageUrl":"https://image.tmdb.org/t/p/w500/1GHECMoMmSkKiYkzRp0VsYxh6kJ.jpg"},{"name":"Vanessa Wieduwilt","imageUrl":"https://image.tmdb.org/t/p/w500/g4zDoVp8ahrsAmyFMRrm0WoQxtc.jpg"},{"name":"Tommy Wirkola","imageUrl":"https://image.tmdb.org/t/p/w500/lhvD0FltdzJqrI5xr5IN90nyh6f.jpg"}]} | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 02:48:48 PM | error | WHERE parameter "title" has invalid "undefined" value | url: /api/movie/find | method: GET | body: {} | userId:  | 
+
+2024-05-21 02:48:48 PM | error | WHERE parameter "title" has invalid "undefined" value | url: /api/movie/find | method: GET | body: {} | userId:  | 
+
+2024-05-21 02:48:56 PM | error | WHERE parameter "title" has invalid "undefined" value | url: /api/movie/find | method: GET | body: {} | userId:  | 
+
+2024-05-21 02:48:56 PM | error | WHERE parameter "title" has invalid "undefined" value | url: /api/movie/find | method: GET | body: {} | userId:  | 
+
+2024-05-21 03:11:59 PM | error | WHERE parameter "title" has invalid "undefined" value | url: /api/movie/find | method: GET | body: {} | userId:  | 
+
+2024-05-21 03:11:59 PM | error | WHERE parameter "title" has invalid "undefined" value | url: /api/movie/find | method: GET | body: {} | userId:  | 
+
+2024-05-21 03:15:04 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:15:17 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:15:17 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:15:28 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:16:23 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:16:23 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:17:34 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:20:29 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:20:56 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:21:03 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:21:03 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:21:35 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:22:30 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:22:35 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:23:03 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:23:40 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:23:45 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:24:02 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:24:10 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:24:10 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:24:20 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:24:44 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:24:50 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:25:48 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:28:51 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:29:18 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:29:44 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:29:44 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:36:10 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:36:26 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:37:02 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:38:48 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:38:54 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:38:54 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:39:50 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:39:50 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:40:04 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:42:07 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:42:07 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:42:51 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:42:51 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:44:15 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:44:15 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:46:28 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:46:28 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:47:00 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:47:00 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:49:31 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:49:31 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:49:38 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:49:38 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:51:08 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:51:08 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 03:51:30 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 04:02:18 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 04:02:18 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 04:02:22 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 04:02:22 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 04:02:44 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 04:02:44 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 04:02:48 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 04:02:48 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 04:04:15 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 04:04:15 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 04:05:20 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 04:05:20 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 04:07:45 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 04:09:17 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 04:09:45 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 04:09:51 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 04:09:51 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 04:10:05 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 04:10:35 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 04:10:59 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 04:11:20 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 04:12:25 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 04:12:49 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 04:13:10 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 04:26:43 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 04:27:20 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 04:45:44 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 04:45:58 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 08:03:21 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 08:09:44 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 08:10:20 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 08:10:20 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 08:16:09 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 08:17:17 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 08:17:22 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 08:17:59 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 08:18:10 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 08:19:29 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 08:44:36 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 08:44:36 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 09:10:35 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 09:18:11 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 09:23:47 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 09:23:47 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 09:54:45 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 10:11:22 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 11:08:28 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 11:14:31 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 11:14:31 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 11:18:52 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 11:43:13 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 11:43:13 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 11:48:38 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 11:48:38 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 11:49:46 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 11:52:09 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 11:52:37 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 11:52:46 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 11:53:24 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 11:53:48 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 11:53:57 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+
+2024-05-21 11:54:15 PM | info | Get All Movie | url: /api/movie/findAll | method: GET | body: undefined | userId: 86739eba-369c-4d22-bf72-52e08b55cd4c | 
+

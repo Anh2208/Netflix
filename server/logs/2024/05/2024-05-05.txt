@@ -1,0 +1,30 @@
+2024-05-05 04:50:56 PM | info | Register | url: /register | method: POST | body: {"username":"jokeay2","email":"test3@gmail.com","password":"123"} | userId:  | 
+
+2024-05-05 04:51:26 PM | info | Email không hợp lệ | url: /api/auth/register | method: POST | body: {} | userId:  | 
+
+2024-05-05 04:55:24 PM | info | Email không hợp lệ | url: /api/auth/register | method: POST | body: {} | userId:  | 
+
+2024-05-05 09:20:28 PM | info | Register | url: /register | method: POST | body: {"username":"123","email":"test3@gmail.com","password":"123"} | userId:  | 
+
+2024-05-05 09:23:52 PM | info | Register | url: /register | method: POST | body: {"username":"an khang","email":"khangvh2208@gmail.com","password":"123"} | userId:  | 
+
+2024-05-05 09:24:11 PM | info | Register | url: /register | method: POST | body: {"username":"an khang","email":"khangvh2208@gmail.com","password":"123"} | userId:  | 
+
+2024-05-05 09:27:48 PM | info | Register | url: /register | method: POST | body: {"username":"an khang","email":"khangvh2208@gmail.com","password":"123"} | userId:  | 
+
+2024-05-05 09:29:38 PM | info | Register | url: /register | method: POST | body: {"username":"an khang","email":"khangvh2208@gmail.com","password":"123"} | userId:  | 
+
+2024-05-05 09:31:40 PM | info | Register | url: /register | method: POST | body: {"username":"an khang","email":"khangvh2208@gmail.com","password":"123"} | userId:  | 
+
+2024-05-05 09:33:10 PM | info | Register | url: /register | method: POST | body: {"username":"an khang","email":"khangvh2208@gmail.com","password":"123"} | userId:  | 
+
+2024-05-05 09:38:40 PM | info | Register | url: /register | method: POST | body: {"username":"an khang","email":"khangvh2208@gmail.com","password":"123"} | userId:  | 
+
+2024-05-05 09:39:32 PM | info | Register | url: /register | method: POST | body: {"username":"an khang","email":"khangvh2208@gmail.com","password":"123"} | userId:  | 
+
+2024-05-05 09:40:24 PM | info | Register | url: /register | method: POST | body: {"username":"an khang","email":"khangvh2208@gmail.com","password":"123"} | userId:  | 
+
+2024-05-05 09:40:29 PM | info | Register | url: /register | method: POST | body: {"username":"an khang","email":"khangvh2208@gmail.com","password":"123"} | userId:  | 
+
+2024-05-05 09:40:47 PM | info | Register | url: /register | method: POST | body: {"username":"an khang","email":"phuancuc@gmail.com","password":"123"} | userId:  | 
+
